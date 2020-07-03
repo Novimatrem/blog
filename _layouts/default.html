@@ -1,5 +1,11 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="css.css">
+<script>
+document.getElementsByTagName("html")[0].insertAdjacentHTML(
+    "beforeend",
+    "<link rel=\"stylesheet\" href=\"https://gitlab.com/Novimatrem/blog/-/raw/master/_layouts/css.css\" />");
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://gitlab.com/Novimatrem/blog/-/raw/master/_layouts/css.css">
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
