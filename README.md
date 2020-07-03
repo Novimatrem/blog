@@ -1,3 +1,3 @@
-# novimatrem.gitlab.io
+# blog
 
-novimatrem.gitlab.io
+blog
