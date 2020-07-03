@@ -6,11 +6,13 @@
      - vendor/
  before_script:
    - bundle install --path vendor
+   - gem install bundler
  # the 'pages' job will deploy and build your site to the 'public' path
  pages:
    stage: deploy
    script:
      - gem install jekyll
+     - gem install bundler
      - bundle exec jekyll build -d public/ --trace
    artifacts:
      paths:
