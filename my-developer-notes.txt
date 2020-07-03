@@ -1,0 +1,2 @@
+edit HTML in the way you'd probably expect in ./_layouts/default.html
+edit CSS in the way you'd expect in the head of that same file because i just want it to work at this point
