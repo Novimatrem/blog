@@ -14,6 +14,7 @@
    script:
      - gem install jekyll
      - gem install bundler
+     - gem install minima
      - bundle exec jekyll build -d public/ --trace
    artifacts:
      paths:
