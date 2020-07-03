@@ -1,0 +1,25 @@
+plugins:
+  - jekyll-feed
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - gulpfile.js
+  - package.json
+
+ defaults:
+    scope:
+      path: ""
+
+    values:
+      layout: "single"
+      toc: true
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      related: true
+
+include: ["_pages"]

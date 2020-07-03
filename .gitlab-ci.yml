@@ -1,13 +1,19 @@
-# This file is a template, and might need editing before it works on your project.
-# Full project: https://gitlab.com/pages/plain-html
-pages:
-  stage: deploy
-  script:
-    - mkdir .public
-    - cp -r * .public
-    - mv .public public
-  artifacts:
-    paths:
-      - public
-  only:
-    - master
+# requiring the environment of Ruby 2.3.x
+ image: ruby:2.4
+ # add bundle cache to 'vendor' for speeding up builds
+ cache:
+   paths:
+     - vendor/
+ before_script:
+   - bundle install --path vendor
+ # the 'pages' job will deploy and build your site to the 'public' path
+ pages:
+   stage: deploy
+   script:
+     - gem install jekyll
+     - bundle exec jekyll build -d public/ --trace
+   artifacts:
+     paths:
+       - public
+   only:
+     - master # this job will affect only the 'master' branch
