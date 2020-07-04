@@ -1,2 +1,1 @@
 edit HTML in the way you'd probably expect in ./_layouts/default.html
-edit CSS in the way you'd probably expect in ./_layouts/css.css
