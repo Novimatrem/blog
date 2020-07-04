@@ -9,3 +9,4 @@ Novimatrem's blog of words and things. Only human - Hobbyist Linux systems admin
 Visit my website for much more of me and the things I do:
 [Novimatrem - Home (my website)](https://novimatrem.gitlab.io/)
 
+Blog code and content is open-source on GitLab: [Novimatrem / blog - GitLab](https://gitlab.com/Novimatrem/blog)
