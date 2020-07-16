@@ -1,6 +1,6 @@
 # blog
 
-Novimatrem's blog of words and things. https://novimatrem.gitlab.io/blog
+Novimatrem's blog of words and things. https://novimatrem.gitlab.io/blog - License: code is original license of projects I used (and/or GPL v3 for my own code), content is CC BY-SA 4.0
 
 # License
 **novimatrem.gitlab.io** is Free Software: You can use, study share and improve it at your
