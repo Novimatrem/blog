@@ -5,7 +5,7 @@ date:   2020-08-22 01:10:00 +0100
 ---
 ## How to fully properly disable Mouse Acceleration in most Linux distros & DE's
 ### by Novimatrem (@Novimatrem@mastodon.online)
-*10 min read* | *Released: 22/Aug/2020 at 01:10AM GMT+1* | *Updated: 22/Aug/2020 at 01:10AM GMT+1*
+*10 min read* | *Released: 22/Aug/2020 at 01:10AM GMT+1* | *Updated: 12/Oct/2020 at 02:07PM GMT+1*
 
 Mouse acceleration is a default part of many desktop environments, and I don't believe it should be. In my opinion, an accelerated mouse behaviour is very difficult to consistently use accurately.
 
@@ -139,6 +139,8 @@ A great resource for figuring out what the developers did to make your mouse fee
 Feel free to [subscribe to my blog with RSS](https://novimatrem.gitlab.io/blog/feed.xml), or, if you enjoy microblogging, [follow me on Mastodon @Novimatrem@mastodon.online](https://mastodon.online/@Novimatrem)~
 
 If you'd like to learn more of me, and the things I do, my website does a great job of that; [https://novimatrem.gitlab.io/](https://novimatrem.gitlab.io/)
+
+You can e-mail me with thoughts, feedback, etc. at TheNovimatrem@protonmail.ch
 
 ...
 
