@@ -15,4 +15,4 @@ Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail
 
 Blog code and content is open-source on GitLab: [Novimatrem / blog - GitLab](https://gitlab.com/Novimatrem/blog)
 
-License: code is original license of projects I used (and/or GPL v3 for my own code), content is CC BY-SA 4.0
+License: code is original license of projects I used, my code is [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html), my content is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
