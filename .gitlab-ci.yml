@@ -7,7 +7,7 @@
  before_script:
    - bundle install
    - bundle install --path vendor
-   - gem install bundler
+   - gem install bundler -v 1.17.3
  # the 'pages' job will deploy and build your site to the 'public' path
  pages:
    stage: deploy
