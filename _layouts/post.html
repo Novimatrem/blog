@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+<!-- i got a domain, so, this is needed to redirect, because gitlab pages is weird.. -->
+<script type="text/javascript">
+console.log("trying to redirect to new new")
+if (window.location.hostname == 'novimatrem.gitlab.io') {
+   window.location.replace("http://novimatrem.uk/blog"); 
+}
+</script>
+
+<link rel="canonical" href="https://novimatrem.uk/blog">
+<!-- /i got a domain, so, this is needed to redirect, because gitlab pages is weird.. -->
+
 <link rel="stylesheet" type="text/css" href="https://gitlab.com/Novimatrem/blog/-/raw/master/_layouts/css.css">
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
