@@ -9,7 +9,7 @@ permalink: /about/
 Novimatrem's blog of words and things. Only human - Hobbyist Linux systems administrator, open-source software & web-developer, and free-software advocate.
 
 Visit my website for much more of me and the things I do:
-[Novimatrem - Home (my website)](https://novimatrem.uk/)
+[Novimatrem - Home (my website)](http://novimatrem.uk/)
 
 Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
 
