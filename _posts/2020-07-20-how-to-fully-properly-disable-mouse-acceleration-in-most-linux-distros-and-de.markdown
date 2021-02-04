@@ -5,14 +5,14 @@ date:   2020-08-22 01:10:00 +0100
 ---
 ## How to fully properly disable Mouse Acceleration in most Linux distros & DE's
 ### by Novimatrem (@Novimatrem@mastodon.online)
-*10 min read* | *Released: 22/Aug/2020 at 01:10AM GMT+1* | *Updated: 13/Jan/2021 at 02:15AM GMT+0*
+*10 min read* | *Released: 22/Aug/2020 at 01:10AM GMT+1* | *Updated: 04/Feb/2021 at 01:55PM GMT+0*
 
 Mouse acceleration is a default part of many desktop environments, and I don't believe it should be. In my opinion, an accelerated mouse behaviour is very difficult to consistently use accurately.
 
 ### What *is* mouse acceleration?
 Mouse acceleration is a behaviour that is *supposed* to make it easier for beginners to use the mouse, but at the **severe cost** of accuracy and muscle memory. Mouse acceleration takes the *speed of your movement* into account, along with its distance, to calculate how the cursor (or camera/crosshair in a game) will move, which initially sounds like a good idea, but you then realize it makes it very difficult to become better at clicking specific locations, and moving the mouse reliably and consistently.
 
-The human mind, in most cases, can remember certain actions and movements you make with the mouse, if you make them consistently, if you learn and practice, most people refer to this as "muscle memory". But it is **much harder** to incorporate a consistent *speed of movement*, along with the movement distance itself, into muscle-memory. Most, if not all, professional gamers disable mouse acceleration on an OS level, and inside of their games. But disabling mouse acceleration can also be an applicable benefit to power-users of software who the inaccuracy of the mouse can be a problem.
+The mind, in most cases, can remember certain actions and movements you make with the mouse, if you make them consistently, if you learn and practice, most people refer to this as "muscle memory". But it is **much harder** to incorporate a consistent *speed of movement*, along with the movement distance itself, into muscle-memory. Most, if not all, professional gamers disable mouse acceleration on an OS level, and inside of their games. But disabling mouse acceleration can also be an applicable benefit to power-users of software who the inaccuracy of the mouse can be a problem.
 
 In my opinion, mouse acceleration should be forcefully disabled, and never turned on again. This is critical if you wish to become better at using the mouse, using your mouse-driven software, gaming, and many more tasks, in an optimal and performant fashion.
 
