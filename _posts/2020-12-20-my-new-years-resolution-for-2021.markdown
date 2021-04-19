@@ -4,8 +4,8 @@ title:  "My New Year's Resolution for 2021"
 date:   2020-12-20 09:05:00 +0000
 ---
 ## My New Year's Resolution for 2021
-### by Novimatrem (@Novimatrem@mastodon.online)
-*Released: 20/Dec/2020 at 09:05AM GMT+0*
+### by Novimatrem (@novimatrem@meow.social)
+*Released: 20/Dec/2020 at 09:05AM GMT+0* | *Updated: 19/Apr/2021 at 08:18PM GMT+1*
 
 
 My New Year's Resolution is decided, I'm going to try my best to exercise more this year.

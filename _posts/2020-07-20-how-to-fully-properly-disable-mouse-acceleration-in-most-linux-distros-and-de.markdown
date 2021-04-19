@@ -4,8 +4,8 @@ title:  "How to fully properly disable Mouse Acceleration in most Linux distros 
 date:   2020-08-22 01:10:00 +0100
 ---
 ## How to fully properly disable Mouse Acceleration in most Linux distros & DE's
-### by Novimatrem (@Novimatrem@mastodon.online)
-*10 min read* | *Released: 22/Aug/2020 at 01:10AM GMT+1* | *Updated: 04/Feb/2021 at 01:55PM GMT+0*
+### by Novimatrem (@novimatrem@meow.social)
+*10 min read* | *Released: 22/Aug/2020 at 01:10AM GMT+1* | *Updated: 19/Apr/2021 at 08:18PM GMT+1*
 
 Mouse acceleration is a default part of many desktop environments, and I don't believe it should be. In my opinion, an accelerated mouse behaviour is very difficult to consistently use accurately.
 
@@ -133,10 +133,10 @@ That's it! Process complete, all you need to do now is **restart your computer**
 A great resource for figuring out what the developers did to make your mouse feel awful to control, and instructions on how to fix it for almost every single game, can be found on the ever-wonderful pages of the [**PCGamingWiki (PCGW)** https://www.pcgamingwiki.com/wiki/Home](https://www.pcgamingwiki.com/wiki/Home), which will help you get the most out of your games.
 
 ...
-
+f
 **That's all for this post, I hope you enjoy your newfound Linux gaming and computer software usage with *zero mouse acceleration*, and very precise accuracy (I certainly do!). I wish you a great week!**
 
-Feel free to [subscribe to my blog with RSS](https://novimatrem.gitlab.io/blog/feed.xml), or, if you enjoy microblogging, [follow me on Mastodon @Novimatrem@mastodon.online](https://mastodon.online/@Novimatrem)~
+Feel free to [subscribe to my blog with RSS](https://novimatrem.gitlab.io/blog/feed.xml), or, if you enjoy microblogging, [follow me on Mastodon @novimatrem@meow.social](https://meow.social/novimatrem)~
 
 If you'd like to learn more of me, and the things I do, my website does a great job of that; [http://novimatrem.uk/](http://novimatrem.uk/)
 
