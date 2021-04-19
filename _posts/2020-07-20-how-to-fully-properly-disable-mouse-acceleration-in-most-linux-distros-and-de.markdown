@@ -133,7 +133,7 @@ That's it! Process complete, all you need to do now is **restart your computer**
 A great resource for figuring out what the developers did to make your mouse feel awful to control, and instructions on how to fix it for almost every single game, can be found on the ever-wonderful pages of the [**PCGamingWiki (PCGW)** https://www.pcgamingwiki.com/wiki/Home](https://www.pcgamingwiki.com/wiki/Home), which will help you get the most out of your games.
 
 ...
-f
+
 **That's all for this post, I hope you enjoy your newfound Linux gaming and computer software usage with *zero mouse acceleration*, and very precise accuracy (I certainly do!). I wish you a great week!**
 
 Feel free to [subscribe to my blog with RSS](https://novimatrem.gitlab.io/blog/feed.xml), or, if you enjoy microblogging, [follow me on Mastodon @novimatrem@meow.social](https://meow.social/novimatrem)~
