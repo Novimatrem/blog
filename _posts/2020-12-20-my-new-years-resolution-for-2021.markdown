@@ -10,7 +10,7 @@ date:   2020-12-20 09:05:00 +0000
 
 My New Year's Resolution is decided, I'm going to try my best to exercise more this year.
 
-Exercise has always been hard for me, and while I don't particularly want to lose weight, I don't want to gain any more, either. I feel slightly weak on the regular, and would benefit from exercising more, for my strength, and general health. 
+Exercise has always been hard for me, and while I don't particularly want to lose weight, I don't want to gain too much more, either. I feel slightly weak on the regular, and would benefit from exercising more, for my strength, and general health. 
 
 Right now the only way I'm comfortable exercising is by taking walks in the garden, and by playing motion-filled Wii games. 
 Hope to expand to roller-skating with time.
