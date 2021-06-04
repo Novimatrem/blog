@@ -15,7 +15,7 @@
      - gem install jekyll
      - gem install bundler -v 1.17.3
      - gem install minima
-     - bundle exec jekyll build -d public/ --trace
+     - bundle exec jekyll build -d public/ --trace --future
    artifacts:
      paths:
        - public
