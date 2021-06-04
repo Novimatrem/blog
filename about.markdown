@@ -6,15 +6,15 @@ permalink: /about/
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
 
-Novimatrem's blog of words and things. 🐈🐱 - Hobbyist Linux systems administrator, open-source software & web-developer, and free-software advocate. 
-i'm cat-kin (otherkin), i really am a cat
+Novimatrem's blog of words and things. 🐈🐱 - Hobbyist Linux systems administrator, open-source software and web-developer, and free-software advocate. 
+I'm cat-kin (otherkin); I really am a cat.
 
 Visit my website for much more of me and the things I do:
 [Novimatrem - Home (my website)](http://novimatrem.uk/)
 
 Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
 
--
+___
 
 Blog code and content is open-source on GitLab: [Novimatrem / blog - GitLab](https://gitlab.com/Novimatrem/blog)
 
