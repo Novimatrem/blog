@@ -29,8 +29,13 @@ url: "https://novimatrem.gitlab.io/" # the base hostname & protocol for your sit
 theme: minima
 future: true
 safe: false
+redirects: yes
 plugins:
   - jekyll-feed
+gems:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
