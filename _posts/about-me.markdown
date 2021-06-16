@@ -6,6 +6,7 @@ published: true
 permalink: https://novimatrem.gitlab.io/blog/about-me.html
 redirect_from: https://novimatrem.gitlab.io/blog/about-me.html
 redirect_to:  https://novimatrem.gitlab.io/blog/about
+date:   2021-06-16 04:10:00 +0000
 ---
 <!DOCTYPE html>
 <html lang="en">
