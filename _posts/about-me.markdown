@@ -1,5 +1,6 @@
 ---
 layout: redirected
+title:  "About me"
 sitemap: true
 published: true
 permalink: https://novimatrem.gitlab.io/blog/about-me.html
