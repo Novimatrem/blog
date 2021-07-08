@@ -138,7 +138,7 @@ A great resource for figuring out what the developers did to make your mouse fee
 
 Feel free to [subscribe to my blog with RSS](https://novimatrem.gitlab.io/blog/feed.xml), or, if you enjoy microblogging, [follow me on Mastodon @novimatrem@meow.social](https://meow.social/novimatrem)~
 
-If you'd like to learn more of me, and the things I do, my website does a great job of that; [http://novimatrem.uk/](http://novimatrem.uk/)
+If you'd like to learn more of me, and the things I do, my website does a great job of that; [https://novimatrem.uk/](https://novimatrem.uk/)
 
 You can e-mail me with thoughts, feedback, etc. at [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
 

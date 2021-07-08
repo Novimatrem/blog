@@ -20,7 +20,7 @@ I'm an open-source advocate, and recommend and prioritise the use of free libre 
 Sorry if my writing or sentence structure seems awkward or confusing sometimes, or something doesn't make sense, I have autism, and likely other neurodivergences- it shouldn’t affect anything much, but please ask for clarity if I ever post something you’re unsure of.
 
 Visit my website for much more of me and the things I do:
-[Novimatrem - Home (my website)](http://novimatrem.uk/)
+[Novimatrem - Home (my website)](https://novimatrem.uk/)
 
 Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
 

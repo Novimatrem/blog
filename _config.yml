@@ -23,7 +23,7 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Novimatrem's blog of words and things. 🐈🐱 - Hobbyist Linux systems administrator, open-source software & web-developer, and free-software advocate.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://novimatrem.gitlab.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://novimatrem.gitlab.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 theme: minima

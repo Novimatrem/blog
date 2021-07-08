@@ -5,7 +5,7 @@ layout: default
 <script type="text/javascript">
 console.log("trying to redirect to new new")
 if (window.location.hostname == 'novimatrem.gitlab.io') {
-   window.location.replace("http://novimatrem.uk/blog"); 
+   window.location.replace("https://novimatrem.uk/blog"); 
 }
 </script>
 
@@ -14,7 +14,7 @@ if (window.location.hostname == 'novimatrem.gitlab.io') {
 
 <link rel="stylesheet" type="text/css" href="https://gitlab.com/Novimatrem/blog/-/raw/master/_layouts/css.css">
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -32,7 +32,7 @@ if (window.location.hostname == 'novimatrem.gitlab.io') {
       {%- endif -%}
       {%- if page.author -%}
         • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span itemprop="author" itemscope itemtype="https://schema.org/Person">
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
