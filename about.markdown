@@ -26,7 +26,13 @@ Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail
 
 and yes, I really am a cat-girl. 
 
--
+___
+
+
+![face-city](https://gitlab.com/Novimatrem/blog/-/raw/master/faceCityMaxAbout.png)
+*Image description: Anime-style portrait of a catgirl. Her hair is straight and fluffy with a mousy brown color. Her cat ears are the same color as her hair and they have round hair tufts inside them. Her eyes are pale blue. Her skin is a light asian skin tone. She is looking at the viewer with a faint, friendly smile and slightly raised eyebrows.*
+
+___
 
 Blog code and content is open-source on GitLab: [Novimatrem / blog - GitLab](https://gitlab.com/Novimatrem/blog)
 
