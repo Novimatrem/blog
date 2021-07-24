@@ -34,6 +34,7 @@ plugins:
   - jekyll-feed
 gems:
   - jekyll-redirect-from
+  - jekyll-seo-tag
 whitelist:
   - jekyll-redirect-from
 
