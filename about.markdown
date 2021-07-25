@@ -11,9 +11,9 @@ permalink: /about/
 
 Hi, I'm Novi- or *Novimatrem*.
 
-I'm a sleepy young woman who's a web developer and Linux tinkerer, living in the United Kingdom. A pansexual, polyamorous, cat-kin (otherkin) plump girl. A fan of technology, programming, food, computer hardware & software, and I spend a lot of my time writing code. gaming is pretty good, too
+I'm a sleepy young woman who's a web developer and Linux tinkerer, living in the United Kingdom. A pansexual, polyamorous, cat-kin (otherkin) plump girl. A big fan of technology, programming, food, computer hardware & software, and I spend a lot of my time writing code. gaming is pretty good, too
 
- My pronouns are she/her/hers, and I'm a pacifist, and notably tired all the time. Recently I've been trying to get into writing more, which is why I made this blog, and my site. Trying my best to make cool stuff for everyone, because seeing people get joy from things I do makes me happy.
+My pronouns are she/her/hers, and I'm a pacifist, and notably tired all the time. Recently I've been trying to get into writing more, which is why I made this blog, and my site. Trying my best to make cool stuff for everyone, because seeing people get joy from things I do makes me happy.
 
 I'm an open-source advocate, and recommend and prioritise the use of free libre software, and open non-proprietary services-- but that doesn't mean I'm a die-hard only-FLOSS extremist.
 
