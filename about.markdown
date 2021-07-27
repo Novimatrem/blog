@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+[(Link to Novimatrem - Home)](https://novimatrem.uk/)
 ## About me
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
@@ -26,6 +27,10 @@ Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail
 
 and yes, I really am a cat-girl. 
 
+Blog code and content is open-source on GitLab: [Novimatrem / blog - GitLab](https://gitlab.com/Novimatrem/blog)
+
+License: code is original license of projects I used, my code is [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html), my content is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ___
 
 
@@ -34,8 +39,3 @@ ___
 
 ___
 
-Blog code and content is open-source on GitLab: [Novimatrem / blog - GitLab](https://gitlab.com/Novimatrem/blog)
-
-License: code is original license of projects I used, my code is [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html), my content is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
-[.](https://www.markdownguide.org/basic-syntax)
