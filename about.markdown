@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 [(Link to Novimatrem - Home)](https://novimatrem.uk/)
-## About me
+## About me 💚
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
 
@@ -25,7 +25,7 @@ Visit my website for much more of me and the things I do:
 
 Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
 
-and yes, I really am a cat-girl. 
+and yes, I really am a cat-girl. 💚
 
 Blog code and content is open-source on GitLab: [Novimatrem / blog - GitLab](https://gitlab.com/Novimatrem/blog)
 
