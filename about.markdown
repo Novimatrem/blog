@@ -25,8 +25,6 @@ Visit my website for much more of me and the things I do:
 
 Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
 
-You can ask me questions about anything and everything over at [curiouscat.qa/Novimatrem](https://curiouscat.qa/Novimatrem) - anonymously and with no login required.
-
 and yes, I really am a cat-girl. 💚
 
 Blog code and content is open-source on GitLab: [Novimatrem / blog - GitLab](https://gitlab.com/Novimatrem/blog)
