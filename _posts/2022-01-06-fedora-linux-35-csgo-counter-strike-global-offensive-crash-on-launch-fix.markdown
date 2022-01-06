@@ -9,7 +9,7 @@ date:   2022-01-06 04:35:00 +0000
 
 Hello- I've switched to using Fedora, recently, and unfortunately, Valve decided to put a library inside of the folder, rather than allowing the more up-to-date and more-compatible already-installed system library to be used, which I consider a bad practice. This causes CS:GO to crash on launch. To work around this, please refer to the following steps, and the game will work perfectly.
 
-Put this in your CS:GO launch options or you will crash/have issues: -nojoy -novid -high -trusted
+Put this in your CS:GO launch options or you will crash/have issues: ``-nojoy -novid -high -trusted``
 AND THEN type the following, dependant on your games' location (change path if needed)
 ```
 sudo su
