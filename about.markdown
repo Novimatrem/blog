@@ -22,6 +22,8 @@ Sorry if my writing or sentence structure seems awkward or confusing sometimes, 
 
 I can also be quite shy, sometimes, and I apologise for that.
 
+and I know it sounds absurd, but if you use my real name can you type it in lowercase please, that's more comforting for me, and less distressing. Sorry if that's odd sounding.
+
 Visit my website for much more of me and the things I do:
 [Novimatrem - Home (my website)](https://novimatrem.uk/)
 
