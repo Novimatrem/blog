@@ -22,7 +22,7 @@ Sorry if my writing or sentence structure seems awkward or confusing sometimes, 
 
 I can also be quite shy, sometimes, and I apologise for that.
 
-I signed up for and filled in a pronouns.page for myself, please see it to learn my pronouns, name, species, things I am, and am proud of. Also included are a small selection of words I feel comfortable being used for me, so you can get the general theme of how to refer to me. Please take a look: [https://en.pronouns.page/@Novimatrem)](https://en.pronouns.page/@Novimatrem)
+I signed up for and filled in a pronouns.page for myself, please see it to learn my pronouns, name, species, things I am, and am proud of. Also included are a small selection of words I feel comfortable being used for me, so you can get the general theme of how to refer to me. Please take a look: [https://en.pronouns.page/@Novimatrem](https://en.pronouns.page/@Novimatrem)
 
 and I know it sounds absurd, but if you use my real name can you type it in lowercase please, that's more comforting for me, and less distressing. Sorry if that's odd sounding.
 
