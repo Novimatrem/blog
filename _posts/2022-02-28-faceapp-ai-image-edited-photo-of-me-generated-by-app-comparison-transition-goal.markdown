@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "A FaceApp AI-image-edited photo of me, automatically modified by the app to make me look even cuter - a comparison and showcase of the current consumer technology of this kind, and one of many ways my transition may go"
+title:  "A FaceApp AI-image-edited photo of me, an app to make me look even cuter?!"
 date:   2022-02-28 20:52:00 +0000
 ---
-## A FaceApp AI-image-edited photo of me, automatically modified by the app to make me look even cuter - a comparison and showcase of the current consumer technology of this kind, and one of many ways my transition may go
 ### by Novimatrem (@novimatrem@meow.social)
 *Released: 28/Feb/2022 at 08:52PM GMT+0*
+#### This image automatically modified by the app
+**A comparison and showcase of the current consumer technology of this kind, and one of many ways my transition may go.**
 
 I am releasing this in a single form, this blog post, with its data on my blog's repo, to make things clear and obvious, and so that you read these words.
 
