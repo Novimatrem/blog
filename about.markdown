@@ -45,10 +45,10 @@ ___
 
 ___
 
-<font color='brown' style="background-color: #1c2021">
-<span style="color:brown; background-color: #1c2021">
+<font color='#ff9797' style="background-color: #1c2021">
+<span style="color:#ff9797; background-color: #1c2021">
 <pre>
-<div style="color:brown; background-color: #1c2021">
+<div style="color:#ff9797; background-color: #1c2021">
 ⣿⡟⠙⠛⠋⠩⠭⣉⡛⢛⠫⠭⠄⠒⠄⠄⠄⠈⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⡇⠄⠄⠄⠄⣠⠖⠋⣀⡤⠄⠒⠄⠄⠄⠄⠄⠄⠄⠄⠄⣈⡭⠭⠄⠄⠄⠉⠙
 ⣿⡇⠄⠄⢀⣞⣡⠴⠚⠁⠄⠄⢀⠠⠄⠄⠄⠄⠄⠄⠄⠉⠄⠄⠄⠄⠄⠄⠄⠄
