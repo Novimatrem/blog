@@ -45,8 +45,8 @@ ___
 
 ___
 
-<font color='brown'>
-<span style="color:brown">
+<font color='brown' style="background-color: #1c2021">
+<span style="color:brown; background-color: #1c2021">
 ```
 <pre>
 ⣿⡟⠙⠛⠋⠩⠭⣉⡛⢛⠫⠭⠄⠒⠄⠄⠄⠈⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
