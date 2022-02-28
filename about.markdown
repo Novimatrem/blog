@@ -45,8 +45,8 @@ ___
 
 ___
 
-Non screen-reader friendly text ahead, ASCII art of an anime catgirls' selfie, for the rest of the page;
-
+<font color='#e8ccd7'>
+<span style="color:#e8ccd7">
 ```
 ⣿⡟⠙⠛⠋⠩⠭⣉⡛⢛⠫⠭⠄⠒⠄⠄⠄⠈⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⡇⠄⠄⠄⠄⣠⠖⠋⣀⡤⠄⠒⠄⠄⠄⠄⠄⠄⠄⠄⠄⣈⡭⠭⠄⠄⠄⠉⠙
@@ -63,3 +63,5 @@ Non screen-reader friendly text ahead, ASCII art of an anime catgirls' selfie, f
 ⣿⡿⠰⠄⠄⠄⠄⠄⠄⠄⠄⠈⠉⠩⠔⠒⠉⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠐⠘⣿
 ⣿⠃⠃⠄⠄⠄⠄⠄⠄⣀⢀⠄⠄⡀⡀⢀⣤⣴⣤⣤⣀⣀⠄⠄⠄⠄⠄⠄⠁⢹
 ```
+</span>
+</font>
