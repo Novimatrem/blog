@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "April fools pre-warning"
+date:   2022-03-24 00:05:00 +0000
+---
+### by Novimatrem (@novimatrem@meow.social)
+*Released: 24/Mar/2022 at 00:05AM GMT+0*
+
+## April fools pre-warning
+
+I am not someone who wishes to partake in April Fools’ day. For me, it can be quite upsetting, distressing, and generally unpleasant.
+
+I’m not somebody who keeps good track of time, be it the day, the date, or even the hour, so randomly having a day where people are supposed to be lying to you, it’s not good, for me.
+Even if I do realise what day it is, I can easily lose track. I have a script that reminds me of the day and time every hour, but I still forget frequently without checking.
+
+I have a thing that I do, every single April Fools’ day, and this year will be no different, in which
+I will not be around, the day before, the day of, and the day after April Fools’ day, because I truly and thoroughly do not wish to be a part of it, it is really bad, for me.
+
+Instead, I will be spending that time doing something isolated from the current date, gaming on an old console, watching older YouTube videos, playing DRM-free offline-only games that don’t accept this horrible concept of a day.
+
+I do understand you may see me as a prude, a boring person, or otherwise a stick-in-the-mud, but, I do have autism (officially diagnosed), so perhaps that could explain as to why I feel such a way about the day.
+
+I use the time and date world clock webpage - [https://www.timeanddate.com/worldclock/](https://www.timeanddate.com/worldclock/) - to verify I’m safe, when it’s no longer April 1st in ANY timezone, I will return to the internet.
+
+...
+
+Thank you for reading.
+
+...
+
+![face2](https://gitlab.com/Novimatrem/blog/-/raw/master/face2.png)
