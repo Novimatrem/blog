@@ -14,7 +14,7 @@ I’m not somebody who keeps good track of time, be it the day, the date, or eve
 Even if I do realise what day it is, I can easily lose track. I have a script that reminds me of the day and time every hour, but I still forget frequently without checking.
 
 I have a thing that I do, every single April Fools’ day, and this year will be no different, in which
-I will not be around, the day before, the day of, and the day after April Fools’ day, because I truly and thoroughly do not wish to be a part of it, it is really bad, for me.
+**I will not be around, the day before, the day of, and the day after April Fools’ day**, because I truly and thoroughly do not wish to be a part of it, it is really bad, for me.
 
 Instead, I will be spending that time doing something isolated from the current date, gaming on an old console, watching older YouTube videos, playing DRM-free offline-only games that don’t accept this horrible concept of a day.
 
