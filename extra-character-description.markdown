@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: extra-character-description
+permalink: /extra-character-description/
 ---
 
 ## Extra character description
