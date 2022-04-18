@@ -2,6 +2,7 @@
 layout: page
 title: Extra character description
 permalink: /extra-character-description/
+hidden: true
 ---
 
 Novimatrem-chan is an anime-style catgirl. Her hair is straight and fluffy with a mousy brown color. Her cat ears are the same color as her hair and they have round hair tufts inside them. Her eyes are pale blue. Her skin is a light asian skin tone. She is looking at the viewer with a faint, friendly smile and slightly raised eyebrows.
