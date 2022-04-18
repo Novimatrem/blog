@@ -13,6 +13,8 @@ Novimatrem-chan is an anime-style catgirl. Her hair is straight and fluffy with 
 
 She's quite a big girl, wearing a pretty traditional stereotypical anime schoolgirl outfit, visible from behind her is her cat tail, which is the same colour as her head hair and ears. She wears opaque thigh-highs.
 
+Here is a link to all the assets that I currently have for her, yes, it's not much: [https://gitlab.com/Novimatrem/novimatrem.gitlab.io/-/tree/master/novi_transparent_assets](https://gitlab.com/Novimatrem/novimatrem.gitlab.io/-/tree/master/novi_transparent_assets)
+
 These are images to perhaps inspire from:
 
 'Sayaka Maizono' By ProfessorDoctorC [https://www.deviantart.com/professordoctorc/art/Sayaka-Maizono-880094252](https://www.deviantart.com/professordoctorc/art/Sayaka-Maizono-880094252)
