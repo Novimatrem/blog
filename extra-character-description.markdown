@@ -23,7 +23,7 @@ These are images to perhaps inspire from:
 
 'Sayaka Maizono' By ProfessorDoctorC [https://www.deviantart.com/professordoctorc/art/Sayaka-Maizono-880094252](https://www.deviantart.com/professordoctorc/art/Sayaka-Maizono-880094252)
 
-'Ocha Stash: Ocharin 17 Softness' By DANYANTTO [https://www.deviantart.com/danyantto/art/Ocha-Stash-Ocharin-17-Softness-884808712](https://www.deviantart.com/danyantto/art/Ocha-Stash-Ocharin-17-Softness-884808712) (no-login mirror: [https://gitlab.com/Novimatrem/blog/-/raw/master/_postImagesUsed/ocha_stash__ocharin_17_softness_by_danyantto_demsirs.png(https://gitlab.com/Novimatrem/blog/-/raw/master/_postImagesUsed/ocha_stash__ocharin_17_softness_by_danyantto_demsirs.png)])
+'Ocha Stash: Ocharin 17 Softness' By DANYANTTO [https://www.deviantart.com/danyantto/art/Ocha-Stash-Ocharin-17-Softness-884808712](https://www.deviantart.com/danyantto/art/Ocha-Stash-Ocharin-17-Softness-884808712) **no-login mirror: [https://gitlab.com/Novimatrem/blog/-/raw/master/_postImagesUsed/ocha_stash__ocharin_17_softness_by_danyantto_demsirs.png(https://gitlab.com/Novimatrem/blog/-/raw/master/_postImagesUsed/ocha_stash__ocharin_17_softness_by_danyantto_demsirs.png)]**
 
 and as for an actual standing pose, this would be ideal- just a normal standing pose, as pictured below:
 'Anime standing' By rahulvyas [https://www.deviantart.com/rahulvyas/art/Anime-standing-211641704](https://www.deviantart.com/rahulvyas/art/Anime-standing-211641704)
