@@ -7,6 +7,8 @@ exclude: true
 hide: true
 ---
 
+### The best character reference I can manage, right now:
+
 Novimatrem-chan is an anime-style catgirl. Her hair is straight and fluffy with a mousy brown color. Her cat ears are the same color as her hair and they have round hair tufts inside them. Her eyes are pale blue. Her skin is a light asian skin tone. She is looking at the viewer with a faint, friendly smile and slightly raised eyebrows.
 
 ![face-city](https://gitlab.com/Novimatrem/blog/-/raw/master/faceCityMaxAbout.png)
@@ -23,5 +25,6 @@ These are images to perhaps inspire from:
 
 'Ocha Stash: Ocharin 17 Softness' By DANYANTTO [https://www.deviantart.com/danyantto/art/Ocha-Stash-Ocharin-17-Softness-884808712](https://www.deviantart.com/danyantto/art/Ocha-Stash-Ocharin-17-Softness-884808712)
 
-and as for an actual standing pose, this would be ideal,
-(wip)
+and as for an actual standing pose, this would be ideal- just a normal standing pose, as pictured below:
+'Anime standing' By rahulvyas [https://www.deviantart.com/rahulvyas/art/Anime-standing-211641704](https://www.deviantart.com/rahulvyas/art/Anime-standing-211641704)
+
