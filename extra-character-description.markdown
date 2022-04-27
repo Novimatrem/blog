@@ -28,3 +28,5 @@ These are images to perhaps inspire from:
 and as for an actual standing pose, this would be ideal- just a normal standing pose, as pictured below:
 'Anime standing' By rahulvyas [https://www.deviantart.com/rahulvyas/art/Anime-standing-211641704](https://www.deviantart.com/rahulvyas/art/Anime-standing-211641704)
 
+
+This page exists so that creatures can get an idea of the characters' appearance, for various reasons, including doing art of her. You're *more than welcome* to do so, just let me know, if you do! 
