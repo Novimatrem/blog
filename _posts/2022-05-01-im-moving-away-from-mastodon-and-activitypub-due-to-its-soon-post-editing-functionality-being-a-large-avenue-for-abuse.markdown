@@ -29,7 +29,7 @@ I have many regrets, and sadly, using Mastodon and Pleroma has become one of the
 
 I'm quite annoyed, but, I'm over there now, yeah.
 
-My social media will seemingly be on diaspora ( and specifically [https://iviv.hu](https://iviv.hu) ) from now on.
+My social media will seemingly be on diaspora (and specifically as **@novimatrem@iviv.hu** [https://iviv.hu/people/ad5501b0ab2f013ac994723c915ba918](https://iviv.hu/people/ad5501b0ab2f013ac994723c915ba918)) from now on.
 
 **If you would like to be able to use social media with me in the future, you will need to use diaspora**
 
