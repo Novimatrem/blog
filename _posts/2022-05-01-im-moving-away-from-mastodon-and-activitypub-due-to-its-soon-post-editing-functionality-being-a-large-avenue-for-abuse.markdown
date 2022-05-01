@@ -31,7 +31,8 @@ I'm quite annoyed, but, I'm over there now, yeah.
 
 My social media will seemingly be on diaspora ( and specifically [https://iviv.hu](https://iviv.hu) ) from now on.
 
-**If you would like to be able to use social media with me in the future, you will need to use diaspora **
+**If you would like to be able to use social media with me in the future, you will need to use diaspora**
+
 **You can find a pod to join that's appropriate to your location by checking the two sites below, if you don't already have an account**
 
 [https://wiki.diasporafoundation.org/Choosing_a_pod](https://wiki.diasporafoundation.org/Choosing_a_pod)
