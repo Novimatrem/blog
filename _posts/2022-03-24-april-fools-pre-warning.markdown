@@ -3,7 +3,7 @@ layout: post
 title:  "April fools pre-warning"
 date:   2022-03-24 00:05:00 +0000
 ---
-### by Novimatrem (@novimatrem@meow.social)
+### by Novimatrem (@novimatrem@iviv.hu)
 *Released: 24/Mar/2022 at 00:05AM GMT+0*
 
 ## April fools pre-warning

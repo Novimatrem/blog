@@ -4,7 +4,7 @@ title:  "A good balance (health update)"
 date:   2021-06-29 23:25:00 +0000
 ---
 ## A good balance (health update)
-### by Novimatrem (@novimatrem@meow.social)
+### by Novimatrem (@novimatrem@iviv.hu)
 *Released: 29/June/2021 at 11:25PM GMT+0*
 
 This is a short blog post, and a personal one. I’m keeping this brief, and getting it out there. Please hold me to this—
