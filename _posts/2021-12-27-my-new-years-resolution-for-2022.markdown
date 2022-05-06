@@ -10,11 +10,11 @@ date:   2021-12-27 23:30:00 +0000
 
 I've worked out the exact point at which my health becomes bad, after repeated testing, and lots of back-and-forths over quite a long while. 
 
-I'm 255lbs, right now, in reality- and from what I've figured out, whenever I go above 250lbs, I start to get chesty hearty pains.
+At my current weight right now, in reality- and from what I've figured out, whenever I go above it by around 10lbs, I start to get chesty hearty pains.
 
 As such, my New Year's Resolution is a simple one, while also being a continuation of my one from last year.
 
-I vow, as my New Year's Resolution, that I will get down to 245lbs in weight, and perhaps even a little less, as I build up my strength, and then, when I've gotten enough muscle strength to properly support myself, stick at a fixed 240lbs of weight, forever. (included in this vow is lowering this max cap/weight limit more if I start to feel unhealthy again)
+I vow, as my New Year's Resolution, that I will get down to a little tiny bit less in weight, and perhaps even a somewhat bit less, as I build up my strength, and then, when I've gotten enough muscle strength to properly support myself, stick at a fixed amount of weight below the present amount, forever. (included in this vow is lowering this max cap/weight limit more if I start to feel unhealthy again)
 
 As was my resolution last year, I'm going to try my best to exercise more this year. Even today I went on a walk for an hour and a half, and while it was hard, it didn't hurt very much, and was enjoyable, even. 
 Exercise has always been hard for me, but over the course of 2021, I've gotten into exercising more, for my strength, and general health, and am now starting to see the enjoyment in it.
