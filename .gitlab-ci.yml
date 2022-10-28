@@ -12,7 +12,7 @@
  pages:
    stage: deploy
    script:
-     - gem install jekyll
+     - gem install jekyll -v 4.2.2
      - gem install bundler -v 1.17.3
      - gem install minima
      - bundle exec jekyll build -d public/ --trace --future
