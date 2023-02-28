@@ -8,7 +8,7 @@ permalink: /about/
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
 
-#### Novimatrem 🐈🐱 - Hobbyist Linux systems administrator, open-source software & web-developer, and free-software advocate.
+#### Novimatrem 🐈🐱 - Hobbyist Linux systems administrator, open-source software & web-developer, free-software fan, and fat acceptance advocate.
 
 Hi, I'm Novi- or *Novimatrem*.
 
