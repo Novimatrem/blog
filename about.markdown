@@ -68,10 +68,9 @@ ___
 </span>
 </font>
 
-
 <div class="countup" id="countup1">
   <span class="timeel days">00</span>
-  <span class="timeel timeRefDays">days</span>
+  <span class="timeel timeRefDays">days on HRT</span>
 </div>
 
 
@@ -113,6 +112,10 @@ function countUpFromTime(countFrom, id) {
 .countup {
   text-align: center;
   margin-bottom: 20px;
+  font-weight: 700;
+  text-rendering:optimizeLegibility;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  color:white;
 }
 .countup .timeel {
   display: inline-block;
@@ -123,11 +126,21 @@ function countUpFromTime(countFrom, id) {
   min-width: 2.6rem;
   margin-left: 13px;
   border-radius: 10px 0 0 10px;
+  font-weight: 700;
+  text-rendering:optimizeLegibility;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  color:white;
 }
 .countup span[class*="timeRef"] {
   border-radius: 0 10px 10px 0;
   margin-left: 0;
-  background: #e8c152;
-  color: black;
+  background: #ff7eb7;
+  color: #fff;
+  font-weight: 700;
+  text-rendering:optimizeLegibility;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  color:white;
 }
 </style>
+
+
