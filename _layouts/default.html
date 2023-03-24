@@ -29,6 +29,18 @@ document.getElementsByTagName("html")[0].insertAdjacentHTML(
   {%- include head.html -%}
 
   <body>
+    
+<style>
+html {
+  filter: invert(1.0);
+}
+body {
+  filter: invert(0.0);
+}
+img {
+  filter: invert(1.0);
+}
+</style>
 
     {%- include header.html -%}
 
