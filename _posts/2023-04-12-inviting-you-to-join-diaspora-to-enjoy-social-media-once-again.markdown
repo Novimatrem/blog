@@ -3,7 +3,6 @@ layout: post
 title:  "I'm Inviting you to join diaspora* with me, to enjoy social media once again"
 date:   2023-04-12 17:00:00 +0000
 ---
-## I'm Inviting you to join diaspora with me, to enjoy social media once again
 ### by Novimatrem (novimatrem@iviv.hu)
 *Released: 12/Apr/2023 at 05:00PM*
 
