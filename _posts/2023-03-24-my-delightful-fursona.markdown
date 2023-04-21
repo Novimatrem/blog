@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My delightful Fursona"
+title:  "My delightful Fursona (NSFW)"
 sitemap: true
 published: true
 permalink: https://novimatrem.gitlab.io/blog/2023-03-24-my-delightful-fursona.html
