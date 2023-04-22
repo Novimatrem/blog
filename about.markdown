@@ -67,8 +67,8 @@ ___
 </pre>
 </span>
 </font>
-<br>
-<pre>
+
+<pre style="font-size: 13px; background-color:black; color:white;">
 Novimatrem has only just begun. I will persist, perpetually. Stay strong, and resilient, with me.
 </pre>
 <br>
