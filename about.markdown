@@ -67,7 +67,11 @@ ___
 </pre>
 </span>
 </font>
-
+<br>
+<pre>
+Novimatrem has only just begun. I will persist, perpetually. Stay strong, and resilient, with me.
+</pre>
+<br>
 <style>
 .countup {
   text-align: center;
