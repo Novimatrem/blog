@@ -26,8 +26,7 @@ I signed up for and filled in a pronouns.page for myself, please see it to learn
 
 and I know it sounds absurd, but if you use my real name can you type it in lowercase please, that's more comforting for me, and less distressing. Sorry if that's odd sounding.
 
-Visit my website for much more of me and the things I do:
-[Novimatrem - Home (my website)](https://novimatrem.uk/)
+### Visit my website for much more of me and the things I do: [Novimatrem - Home (my website)](https://novimatrem.uk/)
 
 Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
 
