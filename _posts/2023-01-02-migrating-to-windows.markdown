@@ -12,7 +12,7 @@ It is a sad day, I used Linux non-stop as my primary and only OS for 7 and a hal
 
 Tip: If you truly do need to run Linux, go with NVIDIA for your graphics card vendor. That is all.
 
-<span style="background-color:#6A6C6E; color:white; padding:3px;">
+<span style="background-color:#6A6C6E; color:white; padding:3px; border-radius: 32px; font-weight:400; text-rendering: optimizeLegibility;">
 EDIT: Late-April 2023- spent almost 3 days straight trying once again to make Linux work with my graphics card, the AMD Radeon RX 6700 XT, and it's still not good news.
 Linux (basically any and all distros) does not work well at all on my card, when it comes to gaming, no matter what I do or try.
 Given my card works fine on Windows, and in Linux it's performing worse than the EVGA NVIDIA GTX 1060 3gb I had prior, it's a driver issue.
