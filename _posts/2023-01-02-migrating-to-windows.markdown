@@ -5,7 +5,7 @@ date:   2023-02-01 22:55:00 +0000
 ---
 #### by Novimatrem (@novimatrem@iviv.hu)
 *Released: 02/Jan/2023 at 10:55PM*
-*Last edited: 26/Apr/2023 at 06:45PM*
+*Last edited: 26/Apr/2023 at 07:45PM*
 
 Due to hardware compatibility concerns that I cannot overcome, regardless of driver, setting, or distro, I am forced, against my will, to migrate entirely over to Windows 10, after being unable to come up with a solution or alternative.
 It is a sad day, I used Linux non-stop as my primary and only OS for 7 and a half years. But I'm not wasting a grand's worth of investment on this hardware by not taking advantage of it, now.
