@@ -68,7 +68,7 @@ ___
 </font>
 
 <pre style="font-size: 13px; background-color:black; color:white;">
-Novimatrem has only just begun. I will persist, perpetually. Stay strong, and resilient, with me.
+Novimatrem has only just begun. I will persist, perpetually. Stay strong, and resilient.
 </pre>
 <br>
 <style>
