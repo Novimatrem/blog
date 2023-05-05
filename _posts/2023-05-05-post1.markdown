@@ -7,8 +7,8 @@ date:   2023-05-05 23:00:00 +0000
 *Released: 05/May/2023*
 
 <div style="background-color:black;">
-<span style="color:white;"><article><pre style="letter-spacing:-0.5px; padding:10px; font-size:12px;">Novimatrem no longer exists as a public social figure, due to unstoppable constant harassment online.
-I'll miss you all. Read more here: <a target="_blank" href="https://novimatrem.uk/nevercache/#post_1">https://novimatrem.uk/nevercache/#post_1</a>
+<span style="color:white;"><article><pre style="letter-spacing:-0.5px; padding:10px; font-size:12px; background-color:black;">Novimatrem no longer exists as a public social figure, due to unstoppable constant harassment online.
+I'll miss you all. Read more here: <a target="_blank" style="color:yellow" href="https://novimatrem.uk/nevercache/#post_1">https://novimatrem.uk/nevercache/#post_1</a>
 
 This isn't goodbye, because, I've only been driven out of *public* spaces by this.
 You'll still be able to contact me privately on platforms that aren't social media, like instant messaging.
