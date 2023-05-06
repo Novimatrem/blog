@@ -10,6 +10,25 @@ permalink: /about/
 
 #### Novimatrem 🐈🐱 - Hobbyist Linux systems administrator, open-source software & web-developer, free-software fan, and fat acceptance advocate.
 
+<div style="background-color:black;">
+<span style="color:white;"><article><pre style="letter-spacing:-0.5px; padding:10px; font-size:12px; background-color:black;">Novimatrem no longer exists as a public social figure, due to unstoppable constant harassment online.
+I'll miss you all. Read more here: <a target="_blank" style="color:yellow" href="https://novimatrem.uk/nevercache/#post_1">https://novimatrem.uk/nevercache/#post_1</a>
+
+This isn't goodbye, because, I've only been driven out of *public* spaces by this.
+You'll still be able to contact me privately on platforms that aren't social media, like instant messaging.
+I'm sorry it's had to come to this, but they're relentless, because my harassers believe such awful bigoted 
+ableist transphobic things, and the software we all mostly use is non-equipped to protect its users.
+
+See you when I see you, and stay safe,
+- Novimatrem
+
+(P.S. due to my absence from these platforms, I won't be there to moderate them, which means horrible 
+replies and such may pile up, there, from these folks. I'm so sorry.)
+</pre>
+</article>
+</span>
+</div>
+
 Hi, I'm Novi- or *Novimatrem*.
 
 I'm a sleepy young woman who's a web developer and Linux tinkerer, living in the United Kingdom. A pansexual, polyamorous, cat-kin (otherkin) girl. A big fan of technology, programming, food, computer hardware & software, and I spend a lot of my time writing code. gaming is pretty good, too
