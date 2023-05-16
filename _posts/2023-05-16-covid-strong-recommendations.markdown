@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "covid strong recommendations."
+date:   2023-05-16 10:15:00 +0000
+---
+#### by Novimatrem
+*Released: 16/May/2023*
+
+<div style="background-color:black;">
+<span style="color:white;"><article><span style="letter-spacing:-0.5px; padding:10px; font-size:12px; background-color:black;">Surprised this still needs to be said, you'd think after so long people would get it into their thick skulls that this stuff is a good idea to not cause more harm.
+
+Wear a mask.
+
+Try to stay at home if you can, or, rather, don't needlessly be 
+outside exposing yourself to others for little reason.
+
+Social distance 2 metres (7 feet).
+
+Practice good hand hygiene, such as washing with soap & hot 
+water, & using hand sanitizer gels when they are available.
+
+</span>
+</article>
+</span>
+</div>
+
+...
+
+![face2](https://gitlab.com/Novimatrem/blog/-/raw/master/face2.png)
+
