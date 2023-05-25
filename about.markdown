@@ -8,7 +8,7 @@ permalink: /about/
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
 
-#### Novimatrem 🐈🐱 - Hobbyist Linux systems administrator, open-source software & web-developer, free-software fan, and fat acceptance advocate.
+#### Novimatrem - Hobbyist Linux systems administrator, open-source software & web-developer, free-software fan, and fat acceptance advocate.
 
 <div style="background-color:black;">
 <span style="color:white;"><article><pre style="letter-spacing:-0.5px; padding:10px; font-size:12px; background-color:black;">Novimatrem no longer exists as a public social figure, due to unstoppable constant harassment online.
@@ -56,37 +56,6 @@ and yes, I really am a cat-girl. 💚
 Blog code and content is open-source on GitLab: [Novimatrem / blog - GitLab](https://gitlab.com/Novimatrem/blog)
 
 License: code is original license of projects I used, my code is [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html), my content is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
-___
-
-
-![face-city](https://gitlab.com/Novimatrem/blog/-/raw/master/faceCityMaxAbout.png)
-*Image description: Anime-style portrait of a catgirl. Her hair is straight and fluffy with a mousy brown color. Her cat ears are the same color as her hair and they have round hair tufts inside them. Her eyes are pale blue. Her skin is a light asian skin tone. She is looking at the viewer with a faint, friendly smile and slightly raised eyebrows.*
-
-___
-
-<font color='#ff9797' style="background-color: #1c2021">
-<span style="color:#ff9797; background-color: #1c2021">
-<pre>
-<div style="color:#ff9797; background-color: #1c2021">
-⣿⡟⠙⠛⠋⠩⠭⣉⡛⢛⠫⠭⠄⠒⠄⠄⠄⠈⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⡇⠄⠄⠄⠄⣠⠖⠋⣀⡤⠄⠒⠄⠄⠄⠄⠄⠄⠄⠄⠄⣈⡭⠭⠄⠄⠄⠉⠙
-⣿⡇⠄⠄⢀⣞⣡⠴⠚⠁⠄⠄⢀⠠⠄⠄⠄⠄⠄⠄⠄⠉⠄⠄⠄⠄⠄⠄⠄⠄
-⣿⡇⠄⡴⠁⡜⣵⢗⢀⠄⢠⡔⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
-⣿⡇⡜⠄⡜⠄⠄⠄⠉⣠⠋⠠⠄⢀⡄⠄⠄⣠⣆⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢸
-⣿⠸⠄⡼⠄⠄⠄⠄⢰⠁⠄⠄⠄⠈⣀⣠⣬⣭⣛⠄⠁⠄⡄⠄⠄⠄⠄⠄⢀⣿
-⣏⠄⢀⠁⠄⠄⠄⠄⠇⢀⣠⣴⣶⣿⣿⣿⣿⣿⣿⡇⠄⠄⡇⠄⠄⠄⠄⢀⣾⣿
-⣿⣸⠈⠄⠄⠰⠾⠴⢾⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⢁⣾⢀⠁⠄⠄⠄⢠⢸⣿⣿
-⣿⣿⣆⠄⠆⠄⣦⣶⣦⣌⣿⣿⣿⣿⣷⣋⣀⣈⠙⠛⡛⠌⠄⠄⠄⠄⢸⢸⣿⣿
-⣿⣿⣿⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠈⠄⠄⠄⠄⠄⠈⢸⣿⣿
-⣿⣿⣿⠄⠄⠄⠘⣿⣿⣿⡆⢀⣈⣉⢉⣿⣿⣯⣄⡄⠄⠄⠄⠄⠄⠄⠄⠈⣿⣿
-⣿⣿⡟⡜⠄⠄⠄⠄⠙⠿⣿⣧⣽⣍⣾⣿⠿⠛⠁⠄⠄⠄⠄⠄⠄⠄⠄⠃⢿⣿
-⣿⡿⠰⠄⠄⠄⠄⠄⠄⠄⠄⠈⠉⠩⠔⠒⠉⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠐⠘⣿
-⣿⠃⠃⠄⠄⠄⠄⠄⠄⣀⢀⠄⠄⡀⡀⢀⣤⣴⣤⣤⣀⣀⠄⠄⠄⠄⠄⠄⠁⢹
-</div>
-</pre>
-</span>
-</font>
 
 <pre style="font-size: 13px; background-color:black; color:white;">
 Novimatrem has only just begun. I will persist, perpetually. Stay strong, and resilient.
