@@ -9,11 +9,8 @@ See below for how many days I've been on HRT, yay :3
 
 (it's in the footer, at the bottom of the entire page)
 
-![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face2024.png)
+<img src="https://gitlab.com/Novimatrem/novimatrem.gitlab.io/-/raw/main/hrtgif.gif" alt="hrtgif" style="width:40%; height:auto;">
 
-![hrtgif](https://gitlab.com/Novimatrem/novimatrem.gitlab.io/-/raw/main/hrtgif.gif)
-
-<br>
 <style>
 .countup {
   text-align: center;
