@@ -1,0 +1,51 @@
+---
+layout: page
+title: HRT
+permalink: /hrtcountup/
+---
+[(Link to Novimatrem - Home)](https://novimatrem.uk/)
+
+![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face2024.png)
+
+<div class="countup" id="countup1">
+  <span class="timeel days">00</span>
+  <span class="timeel timeRefDays">days on HRT</span>
+</div>
+
+<br>
+<style>
+.countup {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-rendering:optimizeLegibility;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  color:white;
+}
+.countup .timeel {
+  display: inline-block;
+  padding: 10px;
+  background: #151515;
+  margin: 0;
+  color: white;
+  min-width: 2.6rem;
+  margin-left: 13px;
+  border-radius: 10px 0 0 10px;
+  font-weight: 700;
+  text-rendering:optimizeLegibility;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  color:white;
+}
+.countup span[class*="timeRef"] {
+  border-radius: 0 10px 10px 0;
+  margin-left: 0;
+  background: #ff7eb7;
+  color: #fff;
+  font-weight: 700;
+  text-rendering:optimizeLegibility;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  color:white;
+}
+</style>
+
+
