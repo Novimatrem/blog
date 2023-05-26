@@ -5,12 +5,7 @@ permalink: /hrtcountup/
 ---
 [(Link to Novimatrem - Home)](https://novimatrem.uk/)
 
-![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face2024.png)
-
-<div class="countup" id="countup1">
-  <span class="timeel days">00</span>
-  <span class="timeel timeRefDays">days on HRT</span>
-</div>
+See below for how many days I've been on HRT, yay :3
 
 <br>
 <style>
