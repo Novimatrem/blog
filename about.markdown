@@ -10,7 +10,7 @@ permalink: /about/
 
 #### Novimatrem - Hobbyist Linux systems administrator, open-source software & web-developer, free-software fan, and fat acceptance advocate.
 
-<div style="background-color:black;">
+<div style="background-color:black; display:none;">
 <span style="color:white;"><article><pre style="letter-spacing:-0.5px; padding:10px; font-size:12px; background-color:black;">Novimatrem no longer exists as a public social figure, due to unstoppable constant harassment online.
 I'll miss you all. Read more here: <a target="_blank" style="color:yellow" href="https://novimatrem.uk/nevercache/#post_1">https://novimatrem.uk/nevercache/#post_1</a>
 
@@ -31,7 +31,7 @@ replies and such may pile up, there, from these folks. I'm so sorry.)
 
 Hi, I'm Novi- or *Novimatrem*.
 
-I'm a sleepy young woman who's a web developer and Linux tinkerer, living in the United Kingdom. A pansexual, polyamorous, cat-kin (otherkin) girl. A big fan of technology, programming, food, computer hardware & software, and I spend a lot of my time writing code. gaming is pretty good, too
+I'm a sleepy young woman who's a web developer and Linux tinkerer, living in the United Kingdom. A pansexual, polyamorous, cat-kin (otherkin) girl. A big fan of technology, programming, food, computer hardware & software, and I spend a lot of my time writing code. Video-making is pretty great, too. I put my heart and soul into the things I do, & strive to create great stuff to the best of my ability in various media types.
 
 My real name is zoey - you're welcome to call me that if you wish to not say my 'gamer username'.
 
