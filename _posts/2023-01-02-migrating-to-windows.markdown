@@ -22,7 +22,9 @@ As such, I’ll have to wait until at least the next LTS of Ubuntu, Ubuntu 24.04
 I’m quite sad at the lacking quality of AMD’s efforts, in particular.
 </span>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tlGHkQAFujU?start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe allowfullscreen="0" width="560" height="315" src="https://www.youtube.com/embed/tlGHkQAFujU?start=0&fs=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" donotallowfullscreen></iframe>
+
 
 ...
 
