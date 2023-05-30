@@ -10,9 +10,9 @@ Hello!
 I just released a video that may help you, if you're having performance issues in Left 4 Dead 2 on PC.
 If you're having problems with stuttering, hitching, lag spikes, etc, then this may resolve it for you:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJNpGUVhwxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="0" width="560" height="315" src="https://www.youtube.com/embed/fJNpGUVhwxg?fs=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" donotallowfullscreen></iframe>
 
-Direct link in-case the embed doesn't work: [https://www.youtube.com/watch?v=fJNpGUVhwxg](https://www.youtube.com/watch?v=fJNpGUVhwxg)
+Direct link to video: [https://www.youtube.com/watch?v=fJNpGUVhwxg](https://www.youtube.com/watch?v=fJNpGUVhwxg)
 
 Hope it helps.
 
