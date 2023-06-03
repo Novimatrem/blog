@@ -6,7 +6,7 @@ published: true
 permalink: https://novimatrem.gitlab.io/blog/2023-06-02-redirect-post-02jun23.html
 redirect_from: https://novimatrem.gitlab.io/blog/2023-06-02-redirect-post-02jun23.html
 redirect_to:  https://old.reddit.com/r/transgender_support/comments/13yscg3/having_struggles_with_anxiety_depression_induced
-date:   2023-03-30 09:25:00 +0000
+date:   2023-06-02 09:00:00 +0000
 ---
 If you are not redirected automatically, follow this [https://old.reddit.com/r/transgender_support/comments/13yscg3/having_struggles_with_anxiety_depression_induced](https://old.reddit.com/r/transgender_support/comments/13yscg3/having_struggles_with_anxiety_depression_induced) link to https://old.reddit.com/r/transgender_support/comments/13yscg3/having_struggles_with_anxiety_depression_induced
 <html lang="en">
