@@ -20,11 +20,10 @@ That'd just make things more happy and comfortable for me, during communications
 
 Of course I won't be *offended* if you call me Novi, or Novimatrem, or whatever, that's my username, and *I do* like my username, obviously, that's why I'm called it- it'd just be better for me to be referred to with my real name.
 
-Thanks,
+Thanks,<br>
 zoey
-
-PS: and I know it sounds absurd, but if you type my real name, can you type it in lowercase please, (so,&nbsp;&nbsp;zoey&nbsp;)- that’s more comforting for me, and less distressing. Sorry if that’s odd sounding. The reason is because of past trauma, that I see the "properly-spelled" 'Zoey' as negative and recall things I'd rather forget. So, zoey it is, exclusively.
 
 ...
 
+PS: and I know it sounds absurd, but if you type my real name, can you type it in lowercase please, (so,&nbsp;&nbsp;zoey&nbsp;)- that’s more comforting for me, and less distressing. Sorry if that’s odd sounding. The reason is because of past trauma, that I see the "properly-spelled" 'Zoey' as negative and recall things I'd rather forget. So, zoey it is, exclusively.
 
