@@ -61,6 +61,9 @@ License: code is original license of projects I used, my code is [GNU GPL v3](ht
 Novimatrem has only just begun. I will persist, perpetually. Stay strong, and resilient.
 </pre>
 <br>
+
+![](https://novimatrem.gitlab.io/internet.png)
+
 <style>
 .countup {
   text-align: center;
