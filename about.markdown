@@ -64,6 +64,8 @@ Novimatrem has only just begun. I will persist, perpetually. Stay strong, and re
 
 ![](https://novimatrem.gitlab.io/internet.png)
 
+<br>&nbsp;&gt; <a target="_blank" style="color:lightgray; text-decoration:underline; text-decoration-color:white; letter-spacing:-0.32px; font-size:14px; font-weight:500;" href="https://docs.google.com/forms/d/e/1FAIpQLSezQV80UYLWFo5NFQfjRyPfrDurLeKH3MCAzRDwpMOAppM6lA/viewform?usp=sf_link">zoey complaints/grievances submission form</a><br>
+
 <style>
 .countup {
   text-align: center;
