@@ -4,7 +4,7 @@ title:  "My New Year's Resolution for 2021"
 date:   2020-12-20 09:05:00 +0000
 ---
 ## My New Year's Resolution for 2021
-### by Novimatrem (@novimatrem@iviv.hu)
+#### by zoey Whitehat (novimatrem.uk)
 *Released: 20/Dec/2020 at 09:05AM GMT+0* | *Updated: 19/Apr/2021 at 08:18PM GMT+1*
 
 

@@ -3,7 +3,7 @@ layout: post
 title:  "How to fix hitching/lag spikes/stutters in your Left 4 Dead 2, probably"
 date:   2023-05-30 11:57:00 +0000
 ---
-#### by Novimatrem
+#### by zoey Whitehat (novimatrem.uk)
 *Released: 30/May/2023 at 11:57AM*
 
 Hello!

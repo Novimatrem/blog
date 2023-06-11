@@ -4,7 +4,7 @@ title:  "An Important Reminder"
 date:   2023-03-09 18:40:00 +0000
 ---
 ## An Important Reminder
-#### from Novimatrem (@novimatrem@iviv.hu)
+#### by zoey Whitehat (novimatrem.uk)
 *Released: 09/Mar/2023 at 06:40PM*
 
 Hello, I thought it didn't need to be said, but here's something I've come to have to repeat recently:

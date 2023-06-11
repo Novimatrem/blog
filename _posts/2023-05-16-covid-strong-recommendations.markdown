@@ -3,7 +3,7 @@ layout: post
 title:  "covid strong recommendations."
 date:   2023-05-16 10:15:00 +0000
 ---
-#### by Novimatrem
+#### by zoey Whitehat (novimatrem.uk)
 *Released: 16/May/2023*
 
 <div style="background-color:black;">

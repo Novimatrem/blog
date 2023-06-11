@@ -3,7 +3,7 @@ layout: post
 title:  "Migrating to Windows (unfortunately not an early April Fools' Joke..)"
 date:   2023-02-01 22:55:00 +0000
 ---
-#### by Novimatrem (@novimatrem@iviv.hu)
+#### by zoey Whitehat (novimatrem.uk)
 *Released: 02/Jan/2023 at 10:55PM*
 *Last edited: 26/Apr/2023 at 07:45PM*
 

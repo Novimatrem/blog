@@ -3,7 +3,7 @@ layout: post
 title:  "Health update (short)"
 date:   2023-06-06 21:35:00 +0000
 ---
-#### by zoey Whitehat
+#### by zoey Whitehat (novimatrem.uk)
 *Released: 06/Jun/2023*
 
 My physical health has been slowly declining over time ever since I became 18.

@@ -4,7 +4,7 @@ title:  "Request for feedback"
 date:   2023-03-15 09:30:00 +0000
 ---
 ## Request for feedback
-#### from Novimatrem (@novimatrem@iviv.hu)
+#### by zoey Whitehat (novimatrem.uk)
 *Released: 15/Mar/2023 at 09:30AM*
 
 I have a question I'd like to ask you to answer that'd help me quite a bit to get answers to, and because I'm forgetful, I put it in the form of a Google Form, basically it's: 

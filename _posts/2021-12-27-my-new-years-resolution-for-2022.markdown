@@ -4,7 +4,7 @@ title:  "My New Year's Resolution for 2022 - things are looking good for the fut
 date:   2021-12-27 23:30:00 +0000
 ---
 ## My New Year's Resolution for 2022 - things are looking good for the future
-### by Novimatrem (@novimatrem@iviv.hu)
+#### by zoey Whitehat (novimatrem.uk)
 *Released: 27/Dec/2021 at 11:30PM GMT+0*
 
 

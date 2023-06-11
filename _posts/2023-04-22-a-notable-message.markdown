@@ -3,7 +3,7 @@ layout: post
 title:  "A notable message"
 date:   2023-04-22 09:15:00 +0000
 ---
-#### by Novimatrem (@novimatrem@iviv.hu)
+#### by zoey Whitehat (novimatrem.uk)
 *Released: 22/Apr/2023*
 
 I apologise if the trolls around my profiles end up finding their way to yours, too. Transphobia isn't acceptable in my circles, nor are attempts to falsely ruin someone's reputation. 

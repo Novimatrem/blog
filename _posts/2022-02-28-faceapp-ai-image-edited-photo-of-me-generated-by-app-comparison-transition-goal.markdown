@@ -3,7 +3,7 @@ layout: post
 title:  "A FaceApp AI-image-edited photo of me, an app to make me look even cuter?!"
 date:   2022-02-28 20:52:00 +0000
 ---
-### by Novimatrem (@novimatrem@iviv.hu)
+#### by zoey Whitehat (novimatrem.uk)
 *Released: 28/Feb/2022 at 08:52PM GMT+0*
 #### This image automatically modified by the app
 **A comparison and showcase of the current consumer technology of this kind, and one of many ways my transition may go.**
