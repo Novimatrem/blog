@@ -49,6 +49,8 @@ and I know it sounds absurd, but if you use my real name can you type it in lowe
 
 #### **Visit my website for much more of me and the things I do: [Novimatrem - Home (my website)](https://novimatrem.uk/)**
 
+<p><span style=""><sup><span style="font-size:13px; letter-spacing:-0.5px;"><sup>▲&nbsp;</sup>Note: My online profiles and such are littered with harassment towards me, they're trying to mess up the place, just ignore them<br>Don't feed the trolls. Their aim is to spread upset, and they fail to manage that, so just give them no attention &amp; they get bored.</span></sup></span><br></p>
+
 Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
 
 and yes, I really am a cat-girl. 💚
