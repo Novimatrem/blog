@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 [(Link to Novimatrem - Home)](https://novimatrem.uk/)
+
+[(Link to @novimatrem YT Community Tab)](https://www.youtube.com/@novimatrem/community)
 ## About me 💚
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
