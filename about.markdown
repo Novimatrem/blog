@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p><a href="https://novimatrem.uk/">(Link to Novimatrem - Home)</a></p>
+<p><a target="_blank" href="https://novimatrem.uk/">(Link to Novimatrem - Home)</a></p>
 
-<p><a href="https://www.youtube.com/@novimatrem/community">(Link to @novimatrem YT Community Tab)</a></p>
+<p><a target="_blank" href="https://www.youtube.com/@novimatrem/community">(Link to @novimatrem YT Community Tab)</a></p>
 ## About me 💚
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
@@ -14,7 +14,7 @@ permalink: /about/
 
 <div style="background-color:black; display:none;">
 <span style="color:white;"><article><pre style="letter-spacing:-0.5px; padding:10px; font-size:12px; background-color:black;">Novimatrem no longer exists as a public social figure, due to unstoppable constant harassment online.
-I'll miss you all. Read more here: <a target="_blank" style="color:yellow" href="https://novimatrem.uk/nevercache/#post_1">https://novimatrem.uk/nevercache/#post_1</a>
+I'll miss you all. Read more here: <a target="_blank" style="color:yellow" target="_blank" href="https://novimatrem.uk/nevercache/#post_1">https://novimatrem.uk/nevercache/#post_1</a>
 
 This isn't goodbye, because, I've only been driven out of *public* spaces by this.
 You'll still be able to contact me privately on platforms that aren't social media, like instant messaging.
@@ -47,26 +47,26 @@ I can also be quite shy, sometimes, and I apologise for that.
 
 You'll see me online on my PC quite often, because I have somewhat limited mobility, and low stamina
 
-I signed up for and filled in a pronouns.page for myself, please see it to learn my pronouns, name, species, things I am, and am proud of. Also included are a small selection of words I feel comfortable being used for me, so you can get the general theme of how to refer to me. Please take a look: <a href="https://en.pronouns.page/@Novimatrem">https://en.pronouns.page/@Novimatrem</a></p>
+I signed up for and filled in a pronouns.page for myself, please see it to learn my pronouns, name, species, things I am, and am proud of. Also included are a small selection of words I feel comfortable being used for me, so you can get the general theme of how to refer to me. Please take a look: <a target="_blank" href="https://en.pronouns.page/@Novimatrem">https://en.pronouns.page/@Novimatrem</a>
 
 and I know it sounds absurd, but if you use my real name can you type it in lowercase please, that's more comforting for me, and less distressing. Sorry if that's odd sounding.
 
-#### **Visit my website for much more of me and the things I do: <a href="https://novimatrem.uk/">Novimatrem - Home (my website)</a>**
+#### **Visit my website for much more of me and the things I do: <a target="_blank" href="https://novimatrem.uk/">Novimatrem - Home (my website)</a>**
 
 <p><span style=""><sup><span style="font-size:13px; letter-spacing:-0.5px;"><sup>▲&nbsp;</sup>Note: My online profiles and such are littered with harassment towards me, they're trying to mess up the place, just ignore them<br>Don't feed the trolls. Their aim is to spread upset, and they fail to manage that, so just give them no attention &amp; they get bored.</span></sup></span><br></p>
 
-Feel free to e-mail me with thoughts, feedback, etc. - <a href="mailto:TheNovimatrem@protonmail.ch">TheNovimatrem@protonmail.ch</a>
+Feel free to e-mail me with thoughts, feedback, etc. - <a target="_blank" href="mailto:TheNovimatrem@protonmail.ch">TheNovimatrem@protonmail.ch</a>
 
 and yes, I really am a cat-girl. 💚
 
-Blog code and content is open-source on GitLab: <a href="https://gitlab.com/Novimatrem/blog">Novimatrem / blog - GitLab</a>
+Blog code and content is open-source on GitLab: <a target="_blank" href="https://gitlab.com/Novimatrem/blog">Novimatrem / blog - GitLab</a>
 
-License: code is original license of projects I used, my code is <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a>, my content is <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+License: code is original license of projects I used, my code is <a target="_blank" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a>, my content is <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 
 <pre style="font-size: 13px; background-color:black; color:white;">
 Novimatrem has only just begun. I will persist, perpetually. Stay strong, and resilient.
 </pre><br>
-&nbsp;&gt; <u><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSezQV80UYLWFo5NFQfjRyPfrDurLeKH3MCAzRDwpMOAppM6lA/viewform?usp=sf_link" style="color:#2a7ae2; text-decoration:underline; text-decoration-color:white; letter-spacing:-0.35px; font-size:14px; font-weight:900;">zoey complaints/grievances submission form</a></u><br>
+&nbsp;&gt; <u><a target="_blank" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSezQV80UYLWFo5NFQfjRyPfrDurLeKH3MCAzRDwpMOAppM6lA/viewform?usp=sf_link" style="color:#2a7ae2; text-decoration:underline; text-decoration-color:white; letter-spacing:-0.35px; font-size:14px; font-weight:900;">zoey complaints/grievances submission form</a></u><br>
 <br>
 <br>
 ![](https://novimatrem.gitlab.io/internet.png)
