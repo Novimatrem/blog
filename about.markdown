@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-[(Link to Novimatrem - Home)](https://novimatrem.uk/)
+<p><a href="https://novimatrem.uk/">(Link to Novimatrem - Home)</a></p>
 
-[(Link to @novimatrem YT Community Tab)](https://www.youtube.com/@novimatrem/community)
+<p><a href="https://www.youtube.com/@novimatrem/community">(Link to @novimatrem YT Community Tab)</a></p>
 ## About me 💚
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
@@ -47,21 +47,21 @@ I can also be quite shy, sometimes, and I apologise for that.
 
 You'll see me online on my PC quite often, because I have somewhat limited mobility, and low stamina
 
-I signed up for and filled in a pronouns.page for myself, please see it to learn my pronouns, name, species, things I am, and am proud of. Also included are a small selection of words I feel comfortable being used for me, so you can get the general theme of how to refer to me. Please take a look: [https://en.pronouns.page/@Novimatrem](https://en.pronouns.page/@Novimatrem)
+I signed up for and filled in a pronouns.page for myself, please see it to learn my pronouns, name, species, things I am, and am proud of. Also included are a small selection of words I feel comfortable being used for me, so you can get the general theme of how to refer to me. Please take a look: <a href="https://en.pronouns.page/@Novimatrem">https://en.pronouns.page/@Novimatrem</a></p>
 
 and I know it sounds absurd, but if you use my real name can you type it in lowercase please, that's more comforting for me, and less distressing. Sorry if that's odd sounding.
 
-#### **Visit my website for much more of me and the things I do: [Novimatrem - Home (my website)](https://novimatrem.uk/)**
+#### **Visit my website for much more of me and the things I do: <a href="https://novimatrem.uk/">Novimatrem - Home (my website)</a>**
 
 <p><span style=""><sup><span style="font-size:13px; letter-spacing:-0.5px;"><sup>▲&nbsp;</sup>Note: My online profiles and such are littered with harassment towards me, they're trying to mess up the place, just ignore them<br>Don't feed the trolls. Their aim is to spread upset, and they fail to manage that, so just give them no attention &amp; they get bored.</span></sup></span><br></p>
 
-Feel free to e-mail me with thoughts, feedback, etc. - [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
+Feel free to e-mail me with thoughts, feedback, etc. - <a href="mailto:TheNovimatrem@protonmail.ch">TheNovimatrem@protonmail.ch</a>
 
 and yes, I really am a cat-girl. 💚
 
-Blog code and content is open-source on GitLab: [Novimatrem / blog - GitLab](https://gitlab.com/Novimatrem/blog)
+Blog code and content is open-source on GitLab: <a href="https://gitlab.com/Novimatrem/blog">Novimatrem / blog - GitLab</a>
 
-License: code is original license of projects I used, my code is [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html), my content is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+License: code is original license of projects I used, my code is <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a>, my content is <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 
 <pre style="font-size: 13px; background-color:black; color:white;">
 Novimatrem has only just begun. I will persist, perpetually. Stay strong, and resilient.
