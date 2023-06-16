@@ -6,7 +6,7 @@ permalink: /about/
 <p><a target="_blank" href="https://novimatrem.uk/">(Link to Novimatrem - Home)</a></p>
 
 <p><a target="_blank" href="https://www.youtube.com/@novimatrem/community">(Link to @novimatrem YT Community Tab)</a></p>
-## About me 💚
+## About me 💜
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
 
@@ -57,7 +57,7 @@ and I know it sounds absurd, but if you use my real name can you type it in lowe
 
 Feel free to e-mail me with thoughts, feedback, etc. - <a target="_blank" href="mailto:TheNovimatrem@protonmail.ch">TheNovimatrem@protonmail.ch</a>
 
-and yes, I really am a cat-girl. 💚
+and yes, I really am a cat-girl. 💜
 
 Blog code and content is open-source on GitLab: <a target="_blank" href="https://gitlab.com/Novimatrem/blog">Novimatrem / blog - GitLab</a>
 
