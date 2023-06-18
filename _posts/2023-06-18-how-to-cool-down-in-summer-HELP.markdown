@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how to cool down in summer HELP"
+title:  "How to cool down in summer (Help!)"
 date:   2023-06-18 17:20:00 +0000
 ---
 #### by zoey Whitehat (novimatrem.uk)
