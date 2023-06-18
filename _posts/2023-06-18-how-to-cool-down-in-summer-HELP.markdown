@@ -9,8 +9,6 @@ date:   2023-06-18 17:20:00 +0000
 Here are a few tips for keeping cool during hot summers, and heatwaves.<br>
 I'll skip the small talk and get straight to it, as you're probably actively melting.
 
-<br>
-
 ### ¹ Drink plenty of water - avoid caffeine and make sure you're drinking lots of water. If you feel thirsty, you're already dehydrated.
 
 ### ² Use Fans, obviously. Ideally at LEAST 1 (one) desk fan, and 1 (one) tower fan.
