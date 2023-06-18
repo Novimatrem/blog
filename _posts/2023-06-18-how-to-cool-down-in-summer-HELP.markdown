@@ -6,7 +6,12 @@ date:   2023-06-18 17:20:00 +0000
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 18/Jun/2023*
 
-Here are a few tips for keeping cool during the heatwave.
+Here are a few tips for keeping cool during hot summers, and heatwaves.<br>
+I'll skip the small talk and get straight to it, as you're probably actively melting.
+
+<br>
+-
+<br>
 
 ### ¹ Drink plenty of water - avoid caffeine and make sure you're drinking lots of water. If you feel thirsty, you're already dehydrated.
 
@@ -23,6 +28,10 @@ Here are a few tips for keeping cool during the heatwave.
 ### ⁷ Eat ice-cream.
 
 ### ⁸ Dress for the weather in thinner, lighter clothing. Clothing that is light-coloured reflects heat-energy more than clothes that are dark/black.
+
+<br>
+-
+<br>
 
 Thanks for reading! Hope it helps,<br>
 zoey
