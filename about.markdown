@@ -39,6 +39,8 @@ My real name is zoey - you're welcome to call me that if you wish to not say my 
 
 My pronouns are she/her/hers, and I'm a pacifist, and notably tired all the time. Recently I've been trying to get into writing more, which is why I made this blog, and my site. Trying my best to make cool stuff for everyone, because seeing people get joy from things I do makes me happy.
 
+i'm cat-kin (otherkin), i am a cat. yes, really.
+
 I'm an open-source advocate, and recommend and prioritise the use of free libre software, and open non-proprietary services-- but that doesn't mean I'm a die-hard only-FLOSS extremist.
 
 Sorry if my writing or sentence structure seems awkward or confusing sometimes, or something doesn't make sense, I have autism, and likely other neurodivergences- it shouldn’t affect anything much, but please ask for clarity if I ever post something you’re unsure of.
