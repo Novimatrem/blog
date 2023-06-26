@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Milestone: 6 months on HRT!"
+date:   2023-06-26 10:00:00 +0000
+---
+#### by zoey Whitehat (novimatrem.uk)
+*Released: 26/Jun/2023*
+
+I think it's time I celebrate something, for once, or at the very least make a commemorative post. As you can tell by the title, I'm now 6 months into my permanent course of Hormone Replacement Therapy, currently comprising of Estrogel and Finasteride! Yay!
+
+I've already had some of the effects start on their way, my skin feels way softer which is very enjoyable and appreciatable, and indeed, my breasts have grown by an amount that, while maybe not too noticeable to an onlooker yet (while I'm clothed), but is quite clear to me, given that I've had to wear a bra more often for comfort and support. This, and body hair in some places only growing back much thinner, lesser, and softer than it would, a while after shaving, is a great sign. Here's to hoping eventually that it decreases to never coming back. Oh, and I'm feeling generally quite a lot less lewd, too, which is good for me.
+
+While slightly TMI, I'd like to add clarity upon what I'm experiencing in case it would help others. My nipples have become harder and slightly larger, and are sometimes sensitive, though the sensitivity isn't a sexual one, yet- that connection hasn't developed so far. In addition, my areolas are visibly bigger.
+
+I'm feeling a lot happier and more at peace with myself, and my life, so far. I'm so grateful and thankful I'm able to do this.
+
+I'll try to give updates like this every notable milestone, or at the very least at times if there's anything interesting to add.
+
+<img src="https://gitlab.com/Novimatrem/blog/-/raw/master/_postImagesUsed/hrt0.png" style="height:auto; width:550px;">
+
+Thanks for reading,<br>
+zoey
+
+...
+
+You can e-mail me with thoughts, feedback, suggestions, etc. at [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
+
