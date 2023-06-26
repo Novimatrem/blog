@@ -20,7 +20,7 @@ I'll try to give updates like this every notable milestone, or at the very least
 
 For additional literature, you can also read the following:
 
-[GenderGP - Predicted Timescales for the Physical Effects of Hormones on Trans Women (PDF)](https://www.gendergp.com/wp-content/uploads/2021/07/GenderGP_Factsheet_PredictedTimescalesForThePhysicalEffectsOfHormones_ForTransWomen_2021_07_08.pdf)
+<a href="https://www.gendergp.com/wp-content/uploads/2021/07/GenderGP_Factsheet_PredictedTimescalesForThePhysicalEffectsOfHormones_ForTransWomen_2021_07_08.pdf" target="_blank">GenderGP - Predicted Timescales for the Physical Effects of Hormones on Trans Women (PDF)</a>
 
 Thanks for reading,<br>
 zoey
