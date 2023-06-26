@@ -19,7 +19,7 @@ Count-up (days):
 
 <img src="https://novimatrem.gitlab.io/blog/msftTrans-min-comp2.PNG" style="height:auto; width:52px;">
 
-<p style="float:right; color:black; font-size:26px; margin-right:50%; margin-top:-28px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↘&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️&nbsp;</p>
+<p style="float:right; color:black; font-size:26px; margin-right:50%; margin-top:-28px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↘️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️&nbsp;</p>
 
 <style>
 .countup {
