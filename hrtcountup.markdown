@@ -19,6 +19,8 @@ Count-up (days):
 
 <img src="https://novimatrem.gitlab.io/blog/msftTrans-min-comp2.PNG" style="height:auto; width:52px;">
 
+<p style="color:white; font-size:26px;">↘&nbsp;⬇️</p>
+
 <style>
 .countup {
   text-align: center;
