@@ -12,11 +12,11 @@ Literature:
 <a href="https://www.gendergp.com/wp-content/uploads/2021/07/GenderGP_Factsheet_PredictedTimescalesForThePhysicalEffectsOfHormones_ForTransWomen_2021_07_08.pdf" target="_blank">[GenderGP - Predicted Timescales for the Physical Effects of Hormones on Trans Women (PDF)]</a>
 
 Count-up (days):
-<b>
-See below for how many days I've been on HRT, yay :3
 
-(it's in the footer, at the bottom of the entire page)
-</b>
+<b>See below for how many days I've been on HRT, yay :3</b>
+
+<b>(it's in the footer, at the bottom of the entire page)</b>
+
 <style>
 .countup {
   text-align: center;
