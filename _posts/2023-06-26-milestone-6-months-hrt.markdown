@@ -18,6 +18,10 @@ I'll try to give updates like this every notable milestone, or at the very least
 
 <img src="https://gitlab.com/Novimatrem/blog/-/raw/master/_postImagesUsed/hrt0.png" style="height:auto; width:550px;">
 
+For additional literature, you can also read the following:
+
+[GenderGP - Predicted Timescales for the Physical Effects of Hormones on Trans Women (PDF)](https://www.gendergp.com/wp-content/uploads/2021/07/GenderGP_Factsheet_PredictedTimescalesForThePhysicalEffectsOfHormones_ForTransWomen_2021_07_08.pdf)
+
 Thanks for reading,<br>
 zoey
 
