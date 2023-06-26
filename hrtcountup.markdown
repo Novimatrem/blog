@@ -17,6 +17,8 @@ Count-up (days):
 
 <b>(it's in the footer, at the bottom of the entire page)</b>
 
+<img src="https://novimatrem.gitlab.io/blog/msftTrans-min-comp2.PNG" style="height:auto; width:52px;">
+
 <style>
 .countup {
   text-align: center;
