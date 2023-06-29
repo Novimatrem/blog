@@ -25,8 +25,7 @@ I would like to give a deep and personal thanks to Wafer, and Craven, for helpin
 
 I hope you had a wonderful Christmas, Holiday season, or just generally holiday time-off, depending- and wish you a very happy new year of potential and joy.
 
-Thanks for reading,<br>
-Novimatrem
+<i>Novimatrem</i>
 
 ...
 

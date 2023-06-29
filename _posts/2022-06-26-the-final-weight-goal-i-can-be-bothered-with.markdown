@@ -20,7 +20,7 @@ I've been advised to, and I will be trying my best, to make my way to 230lbs, an
 
 But anyway, I've been told that's how much I need to lose, to stay on the healthy side of being large, without it being a danger, as told with compelling evidence from a trusted source, and as such, that's what I'll be doing.
 
-That’s all, see you later.
+See you later.
 
 ...
 

@@ -14,8 +14,8 @@ I'm not sure if I have that in me.
 
 I'm not posting this as a pity party, I'm just not especially sure how to continue, and how to have the drive to.
 
-Regardless, thanks for reading,<br>
-zoey
+<br>
+<i>zoey</i>
 
 ...
 

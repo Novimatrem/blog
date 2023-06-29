@@ -43,8 +43,6 @@ I'd be happy to see you there, feel free to follow me there, or just follow some
 **Oh: and be sure to check out the dandelion app, which is a diaspora client for mobile, if you run Android!**
 <br>
 
-Thanks for reading!
-
 <span style="background-color:#1e1e1e; color:white; padding:3px; border-radius: 32px; font-weight:400; text-rendering: optimizeLegibility;">
 EDIT: Early-June 2023: Unfortunately, I’m not around on diaspora anymore. (Which isn't because of its quality as a social network- I think diaspora is the BEST social networking solution developed ever, so far.) It's because of general unstoppable constant harassment online- so, while this post remains 99% accurate, I can't personally use diaspora right now, myself, sadly.
 </span>

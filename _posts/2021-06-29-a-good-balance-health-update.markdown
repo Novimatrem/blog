@@ -13,7 +13,7 @@ I’m going to make efforts to, at the least, remain at my current weight, and a
 
 I’ve felt increasingly tired, weak, and exhausted, over time, and I’d like to address that. I’m sick of my arms and legs feeling so tired and becoming more weak, and the past few days were even more out of the norm, in which I’ve had to rest my limbs for the mass majority of the time. Somewhat worrying. That’s why I’ve come to decide this. 
 
-That’s all, see you later.
+See you later.
 
 ...
 

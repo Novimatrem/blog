@@ -43,7 +43,7 @@ I'll skip the small talk and get straight to it, as you're probably actively mel
 
 <br>
 
-Thanks for reading! Hope it helps,<br>
+Hope it helps,<br>
 zoey
 
 ...
