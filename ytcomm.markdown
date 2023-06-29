@@ -3,7 +3,7 @@ layout: post
 title:  "YT Community"
 sitemap: true
 published: true
-permalink: ytc.html
+permalink: ytcomm.html
 redirect_to:  ytc.html
 date:   2023-06-29 16:35:00 +0000
 ---
