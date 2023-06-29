@@ -22,10 +22,19 @@ For additional literature, you can also read the following:
 
 <a href="https://www.gendergp.com/wp-content/uploads/2021/07/GenderGP_Factsheet_PredictedTimescalesForThePhysicalEffectsOfHormones_ForTransWomen_2021_07_08.pdf" target="_blank">GenderGP - Predicted Timescales for the Physical Effects of Hormones on Trans Women (PDF)</a>
 
-Thanks for reading,<br>
-zoey
+...
+
+**That's all for this post, thanks for reading! I wish you a great week.**
+
+Feel free to [subscribe to my blog with RSS](https://novimatrem.gitlab.io/blog/feed.xml)
+
+If you'd like to learn more of me, and the things I do, my website does a great job of that; [https://novimatrem.uk/](https://novimatrem.uk/)
+
+You can e-mail me with thoughts, feedback, etc. at [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
 
 ...
 
-You can e-mail me with thoughts, feedback, suggestions, etc. at [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. (CC BY-SA 4.0)
+[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
+![face2024](https://gitlab.com/Novimatrem/blog/-/raw/master/face2024.png)
