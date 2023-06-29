@@ -6,8 +6,6 @@ date:   2022-03-24 00:05:00 +0000
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 24/Mar/2022 at 00:05AM GMT+0*
 
-## April fools pre-warning
-
 I am not someone who wishes to partake in April Fools’ day. For me, it can be quite upsetting, distressing, and generally unpleasant.
 
 I’m not somebody who keeps good track of time, be it the day, the date, or even the hour, so randomly having a day where people are supposed to be lying to you, it’s not good, for me.

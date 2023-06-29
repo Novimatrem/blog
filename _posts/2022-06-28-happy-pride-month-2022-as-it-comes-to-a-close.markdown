@@ -3,7 +3,6 @@ layout: post
 title:  "Happy Pride Month 2022, as it comes to a close"
 date:   2022-06-28 03:20:00 +0000
 ---
-## Happy Pride Month 2022, as it comes to a close
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 28/June/2022 at 03:20AM GMT+0*
 

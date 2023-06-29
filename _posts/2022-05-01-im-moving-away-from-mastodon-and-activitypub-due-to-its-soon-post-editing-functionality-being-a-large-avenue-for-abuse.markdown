@@ -3,7 +3,6 @@ layout: post
 title:  "I'm moving away from Mastodon (+ActivityPub) due to its soon 'post editing' functionality being a large avenue for abuse"
 date:   2022-05-01 05:35:00 +0000
 ---
-## I'm moving away from Mastodon (+ActivityPub) due to its soon 'post editing' functionality being a large avenue for abuse
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 01/May/2022 at 05:35AM*
 

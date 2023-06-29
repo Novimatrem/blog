@@ -3,7 +3,6 @@ layout: post
 title:  "The Final weight goal I can be bothered with (health update)"
 date:   2022-06-26 19:10:00 +0000
 ---
-## The Final weight goal I can be bothered with
 ### (health update)
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 26/June/2022 at 07:10PM GMT+0*

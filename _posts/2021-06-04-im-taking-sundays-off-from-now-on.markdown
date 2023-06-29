@@ -3,7 +3,6 @@ layout: post
 title:  "I'm taking Sundays off from now on"
 date:   2021-06-04 02:40:00 +0000
 ---
-## I'm taking Sundays off from now on
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 04/Jun/2021 at 02:40AM GMT+0*
 

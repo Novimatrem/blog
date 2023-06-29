@@ -3,7 +3,6 @@ layout: post
 title:  "Fix missing music/sound effects in Source Engine games (Valve games, etc.) on Fedora"
 date:   2022-03-25 08:15:00 +0000
 ---
-## Fix missing music/sound effects in Source Engine games (Valve games, etc.) on Fedora
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 25/Mar/2022 at 08:15AM*
 

@@ -3,7 +3,6 @@ layout: post
 title:  "Fedora Linux 35 CS:GO Counter-Strike: Global Offensive crash-on-launch fix"
 date:   2022-01-06 04:35:00 +0000
 ---
-## Fedora Linux 35 CS:GO Counter-Strike: Global Offensive crash-on-launch fix
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 06/Jan/2022 at 04:35AM GMT+0*
 

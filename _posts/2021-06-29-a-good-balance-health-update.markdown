@@ -3,7 +3,6 @@ layout: post
 title:  "A good balance (health update)"
 date:   2021-06-29 23:25:00 +0000
 ---
-## A good balance (health update)
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 29/June/2021 at 11:25PM GMT+0*
 

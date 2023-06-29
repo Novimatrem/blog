@@ -3,7 +3,6 @@ layout: post
 title:  "How to fully properly disable Mouse Acceleration in most Linux distros & DE's"
 date:   2020-08-22 01:10:00 +0100
 ---
-## How to fully properly disable Mouse Acceleration in most Linux distros & DE's
 #### by zoey Whitehat (novimatrem.uk)
 *10 min read* | *Released: 22/Aug/2020 at 01:10AM GMT+1* | *Updated: 19/Apr/2021 at 08:18PM GMT+1*
 
