@@ -33,4 +33,4 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 ![face2024](https://gitlab.com/Novimatrem/blog/-/raw/master/face2024.png)
 
-</span>
+
