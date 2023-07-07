@@ -8,7 +8,7 @@ date:   2023-07-07 08:47:00 +0000
 
 <h4>by zoey Whitehat (novimatrem.uk)</h4>
 
-<p>Released: 07/July/2023 at 08:47PM</p>
+<p>Released: 07/July/2023 at 08:47AM</p>
 
 It is with great pleasure that I announce that I'm migrating back to Linux, after half a year without it. I will be migrating to Arch Linux, because it works better than Windows in many regards I deem important, now, compared to how it was 6 months ago. I can finally leave Windows once again.
 
