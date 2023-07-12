@@ -12,5 +12,5 @@ To the good people reading this: you deserve to feel comfortable, happy, and saf
 
 ...
 
-![face2](https://gitlab.com/Novimatrem/blog/-/raw/master/face2.png)
+![face2024](https://gitlab.com/Novimatrem/blog/-/raw/master/face2024.png)
 
