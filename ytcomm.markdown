@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "YT Community"
+title:  "Tagged"
 sitemap: true
 published: true
 permalink: ytcomm.html
@@ -11,7 +11,7 @@ If you are not redirected automatically, follow this [ytc.html](ytc.html) link t
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>YT Community | Novimatrem - Blog</title>
+	<title>Tagged | Novimatrem - Blog</title>
 	 <link rel="canonical" href="ytc.html">
 	<!--[if IE]>
 		<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
