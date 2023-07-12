@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About |
 permalink: /about/
 ---
 <p><a target="_blank" href="https://novimatrem.uk/">(Link to Novimatrem - Home)</a></p>
