@@ -6,6 +6,8 @@ date:   2023-04-03 12:20:00 +0000
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 03/Apr/2023*
 
+Tags: <a href="https://novimatrem.uk/tagged-blog-posts/#socialsafety" target="_blank">socialsafety</a>
+
 I would like to clarify that my official (and only) diaspora account is novimatrem@iviv.hu - there's some bad actors going around, please ensure you check the actual username of users, especially if they seem to be acting in a way that's not like them.
 
 Remember to use all the tools at your disposal if needed to block accounts of bad actors, you can hit the ignore button, remove someone from all aspects, and even disable “Automatically share with users who start sharing with you” in your settings if it seems needed, you deserve to feel comfortable, happy, and safe, in your social media experience.
