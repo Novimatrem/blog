@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tagged"
+title:  "| Categorized posts"
 sitemap: true
 published: true
 permalink: ytcomm.html
