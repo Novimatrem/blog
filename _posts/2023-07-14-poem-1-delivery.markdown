@@ -24,7 +24,7 @@ With a few toughness filled steps she has risen,<br>
 hoping delays would just be forgiven.
 
 Making her slow way across the hard floor,<br>
-the reaches a paw to the patterned white door.
+she reaches a paw to the patterned white door.
 
 It's not to her shock, she's more unsurprised,<br>
 that her package has gone, nobody in sight.
