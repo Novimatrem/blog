@@ -25,7 +25,7 @@ It may not end up being exactly as I've said, as I'm a little preoccupied recent
 But for Now, I'm going to go play Halo.
 
 Cya,<br>
-novimatrem-chan/zoey 🌸💚
+novimatrem-chan/zoey 💜
 
 ...
 
