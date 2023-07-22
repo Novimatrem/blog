@@ -1,5 +1,5 @@
 #!/bin/bash
-# start-all-the-stuff.sh v2
+# start-all-the-stuff.sh v3
 cd "$(dirname "$0")"
 
 clear
@@ -13,6 +13,10 @@ sleep 0.166s
 
 
 # +Start of apps
+
+# fix dupe bug
+killall Discord
+pkill Discord
 
 # Firefox
 sleep 0s && nohup firefox && rm -rf $HOME/nohup.out && rm -rf $(pwd)/nohup.out && rm -rf /opt/nohup.out && disown & disown && echo ""
