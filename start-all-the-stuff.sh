@@ -1,5 +1,5 @@
 #!/bin/bash
-# start-all-the-stuff.sh v6
+# start-all-the-stuff.sh v7
 cd "$(dirname "$0")"
 
 clear
@@ -67,7 +67,7 @@ echo "[loading...]"
 echo ""
 # Make this delay long enough that the terminal exits after all the progs have done launching
 # Else you do not return to the prompt and it hangs
-sleep 18s
+sleep 38s
 echo ""
 echo "[FINISHED] Done!"
 echo "!!!"
