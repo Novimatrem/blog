@@ -38,6 +38,6 @@ You can e-mail me with thoughts, feedback, etc. at [TheNovimatrem@protonmail.ch]
 ...
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. (CC BY-SA 4.0)
-<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">https://creativecommons.org/licenses/by-sa/4.0/</a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/" style="color: #008148" target="_blank">https://creativecommons.org/licenses/by-sa/4.0/</a>
 
 ![face2024](https://gitlab.com/Novimatrem/blog/-/raw/master/face2024.png)

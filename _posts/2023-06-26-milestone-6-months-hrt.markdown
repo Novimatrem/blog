@@ -20,7 +20,7 @@ I'll try to give updates like this every notable milestone, or at the very least
 
 For additional literature, you can also read the following:
 
-<a href="https://www.gendergp.com/wp-content/uploads/2021/07/GenderGP_Factsheet_PredictedTimescalesForThePhysicalEffectsOfHormones_ForTransWomen_2021_07_08.pdf" target="_blank">GenderGP - Predicted Timescales for the Physical Effects of Hormones on Trans Women (PDF)</a>
+<a href="https://www.gendergp.com/wp-content/uploads/2021/07/GenderGP_Factsheet_PredictedTimescalesForThePhysicalEffectsOfHormones_ForTransWomen_2021_07_08.pdf" style="color: #008148" target="_blank">GenderGP - Predicted Timescales for the Physical Effects of Hormones on Trans Women (PDF)</a>
 
 ...
 
@@ -35,6 +35,6 @@ You can e-mail me with thoughts, feedback, etc. at [TheNovimatrem@protonmail.ch]
 ...
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. (CC BY-SA 4.0)
-<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">https://creativecommons.org/licenses/by-sa/4.0/</a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/" style="color: #008148" target="_blank">https://creativecommons.org/licenses/by-sa/4.0/</a>
 
 ![face2024](https://gitlab.com/Novimatrem/blog/-/raw/master/face2024.png)
