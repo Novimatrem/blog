@@ -6,7 +6,7 @@ date:   2023-04-03 12:20:00 +0000
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 03/Apr/2023*
 
-|Tags: <a href="https://novimatrem.uk/tagged-blog-posts/#socialsafety" target="_blank">socialsafety</a>|
+|Tags: <a href="https://novimatrem.uk/tagged-blog-posts/#socialsafety" target="_blank" style="color: #ff7eb7;">socialsafety</a>|
 
 I would like to clarify that my official (and only) diaspora account is novimatrem@iviv.hu - there's some bad actors going around, please ensure you check the actual username of users, especially if they seem to be acting in a way that's not like them.
 
