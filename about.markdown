@@ -59,7 +59,7 @@ and I know it sounds absurd, but if you use my real name can you type it in lowe
 
 <p><span style=""><sup><span style="font-size:13px; letter-spacing:-0.5px;"><sup>▲&nbsp;</sup>Note: My online profiles and such are littered with harassment towards me, they're trying to mess up the place, just ignore them<br>Don't feed the trolls. Their aim is to spread upset, and they fail to manage that, so just give them no attention &amp; they get bored.</span></sup></span><br></p>
 
-Feel free to e-mail me with thoughts, feedback, etc. - <a target="_blank" href="mailto:TheNovimatrem@protonmail.ch">TheNovimatrem@protonmail.ch</a>
+Feel free to e-mail me with thoughts, feedback, etc. - <a target="_blank" style="color: #008148" href="mailto:TheNovimatrem@protonmail.ch">TheNovimatrem@protonmail.ch</a>
 
 and yes, I really am a cat-girl. 💜
 
@@ -75,7 +75,7 @@ and yes, I really am a cat-girl. 💜
 
 Blog code and content is open-source on GitLab: <a target="_blank" href="https://gitlab.com/Novimatrem/blog" style="color: #008148;">Novimatrem / blog - GitLab</a>
 
-License: code is original license of projects I used, my code is <a target="_blank" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a>, my content is <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+License: code is original license of projects I used, my code is <a target="_blank" style="color: #008148" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a>, my content is <a target="_blank" style="color: #008148" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 
 <pre style="font-size: 13px; background-color:black; color:white;">
 Novimatrem has only just begun. I will persist, perpetually. Stay strong, and resilient.
