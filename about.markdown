@@ -66,8 +66,11 @@ and yes, I really am a cat-girl. 💜
 #### **More things about me:**
 
 • Favourite operating system (daily driver): Arch Linux x86_64
+
 • Favourite food: Bacon triple-cheeseburger
+
 • Height: 5'5" [which equals to 165cm]
+
 • Weight: 716lbs [which equals to 324.7kg], heavily morbidly obese.
 
 Blog code and content is open-source on GitLab: <a target="_blank" href="https://gitlab.com/Novimatrem/blog" style="color: #008148;">Novimatrem / blog - GitLab</a>
