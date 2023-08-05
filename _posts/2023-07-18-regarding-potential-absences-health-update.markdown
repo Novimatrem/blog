@@ -24,9 +24,9 @@ Because a lot of sources of knowledge on these things seem to forget the idea th
 
 **That's all for this post, thanks for reading! I wish you a great week.**
 
-Feel free to <a href="https://novimatrem.gitlab.io/blog/feed.xml" style="#008148" target="_blank">subscribe to my blog with RSS</a>
+Feel free to <a href="https://novimatrem.gitlab.io/blog/feed.xml" style="color: #008148" target="_blank">subscribe to my blog with RSS</a>
 
-If you'd like to learn more of me, and the things I do, my website does a great job of that; <a href="https://novimatrem.uk/" style="#008148" target="_blank">https://novimatrem.uk/</a>
+If you'd like to learn more of me, and the things I do, my website does a great job of that; <a href="https://novimatrem.uk/" style="color: #008148" target="_blank">https://novimatrem.uk/</a>
 
 You can e-mail me with thoughts, feedback, etc. at [TheNovimatrem@protonmail.ch](mailto:TheNovimatrem@protonmail.ch)
 
