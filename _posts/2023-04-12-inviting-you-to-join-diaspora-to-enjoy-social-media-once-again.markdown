@@ -19,7 +19,7 @@ diaspora is a decentralized social network where you are in control, created in 
 
 Along with the features you'd expect of a social media site, it also supports following hashtags, like how you'd follow a user, Markdown text formatting in posts, and Aspects (groups of creatures) which are like Google+'s "circles" feature. [rip Google+]
 
-Still not convinced? You can learn more about diaspora on [https://diasporafoundation.org/](https://diasporafoundation.org/) and also in a more technical regard on [https://fediverse.party/en/diaspora/](https://fediverse.party/en/diaspora/) &thinsp;&thinsp;..&nbsp;! 
+Still not convinced? You can learn more about diaspora on <a href="https://diasporafoundation.org/" target="_blank" style="color: #008148">https://diasporafoundation.org/</a> and also in a more technical regard on <a href="https://fediverse.party/en/diaspora/" target="_blank" style="color: #008148">https://fediverse.party/en/diaspora/</a> &thinsp;&thinsp;..&nbsp;! 
 &thinsp;
 <br>
 
@@ -35,7 +35,7 @@ Well, my social media is diaspora (and specifically as **@novimatrem@iviv.hu** <
 
 <a href="https://diaspora.fediverse.observer/" target="_blank" style="color: #008148">https://diaspora.fediverse.observer/</a>
 
-Or, if you're still lost, here's a more comprehensive set of tutorials/guides on many aspects of diaspora: <a href="https://diasporafoundation.org/tutorials" target="_blank">https://diasporafoundation.org/tutorials</a>
+Or, if you're still lost, here's a more comprehensive set of tutorials/guides on many aspects of diaspora: <a href="https://diasporafoundation.org/tutorials" target="_blank" style="color: #008148">https://diasporafoundation.org/tutorials</a>
 <br>
 
 I'd be happy to see you there, feel free to follow me there, or just follow some interesting hashtags to get you started!
