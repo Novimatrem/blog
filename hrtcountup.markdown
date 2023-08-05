@@ -3,11 +3,11 @@ layout: page
 title: HRT
 permalink: /hrtcountup/
 ---
-<a href="https://novimatrem.uk/" target="_blank">[Link to Novimatrem - Home]</a>
+<a style="color: #008148;" href="https://novimatrem.uk/" target="_blank">[Link to Novimatrem - Home]</a>
 
 Literature:
 
-<a href="https://novimatrem.gitlab.io/blog/2023/06/26/milestone-6-months-hrt.html" target="_blank">[My blog post for Milestone 1 - 6 months on HRT]</a>
+<a style="color: #008148;" href="https://novimatrem.gitlab.io/blog/2023/06/26/milestone-6-months-hrt.html" target="_blank">[My blog post for Milestone 1 - 6 months on HRT]</a>
 
 <a href="https://www.gendergp.com/wp-content/uploads/2021/07/GenderGP_Factsheet_PredictedTimescalesForThePhysicalEffectsOfHormones_ForTransWomen_2021_07_08.pdf" target="_blank">[GenderGP - Predicted Timescales for the Physical Effects of Hormones on Trans Women (PDF)]</a>
 
