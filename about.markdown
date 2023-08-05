@@ -3,9 +3,9 @@ layout: page
 title: About |
 permalink: /about/
 ---
-<p><a target="_blank" href="https://novimatrem.uk/">(Link to Novimatrem - Home)</a></p>
+<p><a target="_blank" href="https://novimatrem.uk/" style="color: #008148;">(Link to Novimatrem - Home)</a></p>
 
-<p><a target="_blank" href="https://www.youtube.com/@novimatrem/community">(Link to @novimatrem YT Community Tab)</a></p>
+<p><a target="_blank" href="https://www.youtube.com/@novimatrem/community" style="color: #008148;">(Link to @novimatrem YT Community Tab)</a></p>
 ## About me 💜
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
@@ -55,7 +55,7 @@ I signed up for and filled in a pronouns.page for myself, please see it to learn
 
 and I know it sounds absurd, but if you use my real name can you type it in lowercase please, that's more comforting for me, and less distressing. Sorry if that's odd sounding.
 
-#### **Visit my website for much more of me and the things I do: <a target="_blank" href="https://novimatrem.uk/">Novimatrem - Home (my website)</a>**
+#### **Visit my website for much more of me and the things I do: <a target="_blank" style="color: #008148;" href="https://novimatrem.uk/">Novimatrem - Home (my website)</a>**
 
 <p><span style=""><sup><span style="font-size:13px; letter-spacing:-0.5px;"><sup>▲&nbsp;</sup>Note: My online profiles and such are littered with harassment towards me, they're trying to mess up the place, just ignore them<br>Don't feed the trolls. Their aim is to spread upset, and they fail to manage that, so just give them no attention &amp; they get bored.</span></sup></span><br></p>
 
@@ -63,7 +63,7 @@ Feel free to e-mail me with thoughts, feedback, etc. - <a target="_blank" href="
 
 and yes, I really am a cat-girl. 💜
 
-Blog code and content is open-source on GitLab: <a target="_blank" href="https://gitlab.com/Novimatrem/blog">Novimatrem / blog - GitLab</a>
+Blog code and content is open-source on GitLab: <a target="_blank" href="https://gitlab.com/Novimatrem/blog" style="color: #008148;">Novimatrem / blog - GitLab</a>
 
 License: code is original license of projects I used, my code is <a target="_blank" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a>, my content is <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 
