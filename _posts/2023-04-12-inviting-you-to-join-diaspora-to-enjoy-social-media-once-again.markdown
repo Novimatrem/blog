@@ -25,17 +25,17 @@ Still not convinced? You can learn more about diaspora on [https://diasporafound
 
 ## So, what's next?
 
-Well, my social media is diaspora (and specifically as **@novimatrem@iviv.hu** [https://iviv.hu/people/ad5501b0ab2f013ac994723c915ba918](https://iviv.hu/people/ad5501b0ab2f013ac994723c915ba918)) - and it has been for quite a while.
+Well, my social media is diaspora (and specifically as **@novimatrem@iviv.hu** <a href="https://iviv.hu/people/ad5501b0ab2f013ac994723c915ba918" target="_blank" style="color: #008148">https://iviv.hu/people/ad5501b0ab2f013ac994723c915ba918</a>) - and it has been for quite a while.
 &nbsp;
 <br>
 
 **You can easily find a pod to join that's appropriate to your location by checking the two sites below, if you don't already have an account**
 
-[https://wiki.diasporafoundation.org/Choosing_a_pod](https://wiki.diasporafoundation.org/Choosing_a_pod)
+<a href="https://wiki.diasporafoundation.org/Choosing_a_pod" target="_blank" style="color: #008148">https://wiki.diasporafoundation.org/Choosing_a_pod</a>
 
-[https://diaspora.fediverse.observer/](https://diaspora.fediverse.observer/)
+<a href="https://diaspora.fediverse.observer/" target="_blank" style="color: #008148">https://diaspora.fediverse.observer/</a>
 
-Or, if you're still lost, here's a more comprehensive set of tutorials/guides on many aspects of diaspora: [https://diasporafoundation.org/tutorials](https://diasporafoundation.org/tutorials)
+Or, if you're still lost, here's a more comprehensive set of tutorials/guides on many aspects of diaspora: <a href="https://diasporafoundation.org/tutorials" target="_blank">https://diasporafoundation.org/tutorials</a>
 <br>
 
 I'd be happy to see you there, feel free to follow me there, or just follow some interesting hashtags to get you started!

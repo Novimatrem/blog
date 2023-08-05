@@ -129,7 +129,7 @@ That's it! Process complete, all you need to do now is **restart your computer**
 ### (or- "some game developers are silly, and how to fix it")
 ***Some*** games (rarely, made/ported by bad or uncaring PC developers,) have their own **built-in mouse-acceleration**. This acceleration will have to be disabled on a case-by-case basis for games that do not comply with the global raw input that we established with the steps in this guide. Usually, the options to tweak the mouse behaviour to a favourable un-smoothed, non-accelerated, entirely-raw input are found in the game's menus, settings, configuration files, or by adding launch options to the game. There are a few games that I can recall with this issue, Bethesda's engine, Mirror's Edge, Fable's PC ports, etc.
 
-A great resource for figuring out what the developers did to make your mouse feel awful to control, and instructions on how to fix it for almost every single game, can be found on the ever-wonderful pages of the [**PCGamingWiki (PCGW)** https://www.pcgamingwiki.com/wiki/Home](https://www.pcgamingwiki.com/wiki/Home), which will help you get the most out of your games.
+A great resource for figuring out what the developers did to make your mouse feel awful to control, and instructions on how to fix it for almost every single game, can be found on the ever-wonderful pages of the <a href="https://www.pcgamingwiki.com/wiki/Home" style="color: #008148" target="_blank">PCGamingWiki (PCGW)</a>, which will help you get the most out of your games.
 
 ...
 

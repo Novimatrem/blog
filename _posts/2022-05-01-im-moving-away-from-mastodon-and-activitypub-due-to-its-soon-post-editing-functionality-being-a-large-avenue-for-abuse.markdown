@@ -28,15 +28,15 @@ I have many regrets, and sadly, using Mastodon and Pleroma has become one of the
 
 I'm quite annoyed, but, I'm over there now, yeah.
 
-My social media will seemingly be on diaspora (and specifically as **@novimatrem@iviv.hu** [https://iviv.hu/people/ad5501b0ab2f013ac994723c915ba918](https://iviv.hu/people/ad5501b0ab2f013ac994723c915ba918)) from now on.
+My social media will seemingly be on diaspora (and specifically as **@novimatrem@iviv.hu** <a href="https://iviv.hu/people/ad5501b0ab2f013ac994723c915ba918" target="_blank" style="color: #008148">https://iviv.hu/people/ad5501b0ab2f013ac994723c915ba918</a>) from now on.
 
 **If you would like to be able to use social media with me in the future, you will need to use diaspora**
 
 **You can find a pod to join that's appropriate to your location by checking the two sites below, if you don't already have an account**
 
-[https://wiki.diasporafoundation.org/Choosing_a_pod](https://wiki.diasporafoundation.org/Choosing_a_pod)
+<a href="https://wiki.diasporafoundation.org/Choosing_a_pod" target="_blank" style="color: #008148">https://wiki.diasporafoundation.org/Choosing_a_pod</a>
 
-[https://diaspora.fediverse.observer/](https://diaspora.fediverse.observer/)
+<a href="https://diaspora.fediverse.observer/" target="_blank" style="color: #008148">https://diaspora.fediverse.observer/</a>
 
 Additional note: diaspora is usually spelled with a star (asterisk) symbol after its name, but due to technical limitation I can't do that here.
 

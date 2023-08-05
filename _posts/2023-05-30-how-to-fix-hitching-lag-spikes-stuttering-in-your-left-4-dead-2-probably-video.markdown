@@ -12,7 +12,7 @@ If you're having problems with stuttering, hitching, lag spikes, etc, then this 
 
 <iframe allowfullscreen="0" width="560" height="315" src="https://www.youtube.com/embed/fJNpGUVhwxg?fs=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" donotallowfullscreen></iframe>
 
-Direct link to video: [https://www.youtube.com/watch?v=fJNpGUVhwxg](https://www.youtube.com/watch?v=fJNpGUVhwxg)
+Direct link to video: <a href="https://www.youtube.com/watch?v=fJNpGUVhwxg" target="_blank" style="color: #008148">https://www.youtube.com/watch?v=fJNpGUVhwxg</a>
 
 Hope it helps.
 

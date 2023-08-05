@@ -18,7 +18,7 @@ Instead, I will be spending that time doing something isolated from the current 
 
 I do understand you may see me as a prude, a boring person, or otherwise a stick-in-the-mud, but, I do have autism (officially diagnosed), so perhaps that could explain as to why I feel such a way about the day.
 
-I use the time and date world clock webpage - [https://www.timeanddate.com/worldclock/](https://www.timeanddate.com/worldclock/) - to verify I’m safe, when it’s no longer April 1st in ANY timezone, I will return to the internet.
+I use the time and date world clock webpage - <a href="https://www.timeanddate.com/worldclock/" target="_blank" style="color: #008148">https://www.timeanddate.com/worldclock/</a> - to verify I’m safe, when it’s no longer April 1st in ANY timezone, I will return to the internet.
 
 ...
 
