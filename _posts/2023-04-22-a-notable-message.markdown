@@ -6,7 +6,7 @@ date:   2023-04-22 09:15:00 +0000
 #### by zoey Whitehat (novimatrem.uk)
 *Released: 22/Apr/2023*
 
-|Tags: <a href="https://novimatrem.uk/tagged-blog-posts/#socialsafety" target="_blank">socialsafety</a>|
+|Tags: <a href="https://novimatrem.uk/tagged-blog-posts/#socialsafety" target="_blank" style="color: #ff7eb7;">socialsafety</a>|
 
 I apologise if the trolls around my profiles end up finding their way to yours, too. Transphobia isn't acceptable in my circles, nor are attempts to falsely ruin someone's reputation. 
 I am fine with any genuine constructive criticism, I'm sure we all want to improve ourselves, but, this isn't what this is.
