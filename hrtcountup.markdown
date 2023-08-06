@@ -11,6 +11,10 @@ Literature:
 
 <a style="color: #008148" href="https://www.gendergp.com/wp-content/uploads/2021/07/GenderGP_Factsheet_PredictedTimescalesForThePhysicalEffectsOfHormones_ForTransWomen_2021_07_08.pdf" target="_blank">[GenderGP - Predicted Timescales for the Physical Effects of Hormones on Trans Women (PDF)]</a>
 
+HRT:
+
+• Estradiol Oestrogel, Finasteride tablets.
+
 Count-up (days):
 
 <b>See below for how many days I've been on HRT, yay :3</b>
