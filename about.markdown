@@ -73,6 +73,8 @@ and yes, I really am a cat-girl. 💜
 
 • Weight: 716lbs [which equals to 324.7kg], heavily morbidly obese.
 
+• HRT: Estradiol Oestrogel gel, Finasteride tablets.
+
 Blog code and content is open-source on GitLab: <a target="_blank" href="https://gitlab.com/Novimatrem/blog" style="color: #008148;">Novimatrem / blog - GitLab</a>
 
 License: code is original license of projects I used, my code is <a target="_blank" style="color: #008148" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a>, my content is <a target="_blank" style="color: #008148" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
