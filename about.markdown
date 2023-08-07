@@ -67,7 +67,9 @@ and yes, I really am a cat-girl. 💜
 
 • Favourite operating system (daily driver): Arch Linux x86_64
 
-• Favourite food: Bacon triple-cheeseburger
+• Favourite food: Bacon triple-cheeseburger, Tofu, Feta Cheese
+
+• Favourite drinks: Cup of Tea, Soy Milk
 
 • Height: 5'5" [which equals to 165cm]
 
