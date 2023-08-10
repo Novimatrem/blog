@@ -16,7 +16,7 @@ While I do wish that my transition will eventually get me to look this fem, it's
 
 But either way, this is adorable, and this is very much life goals for how I wish to look as my transition continues.
 
-Feel free to compare to <a href="https://500px.com/photo/1033614975/irl-selfie-june-2021-by-novimatrem-%F0%9F%90%B1%F0%9F%90%88-sheherhers" target="_blank" style="color: #008148">the original photo</a>- so you can see the differences.
+Feel free to compare to <a href="https://novimatrem.gitlab.io/blog/_postImagesUsed/compare-original.jpg" target="_blank" style="color: #008148">the original photo</a>- so you can see the differences.
 
 
 ![faceapp modified selfie](https://gitlab.com/Novimatrem/blog/-/raw/master/_postImagesUsed/faceapp_modified.jpg)
