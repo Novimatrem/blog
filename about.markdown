@@ -73,7 +73,7 @@ and yes, I really am a cat-girl. 💜
 
 • Height: 5'5" [which equals to 165cm]
 
-• Weight: 716lbs [which equals to 324.7kg], heavily morbidly obese.
+• Weight: 716lbs [which equals to 324.7kg], heavily morbidly obese, with Non-Alcoholic Fatty Liver Disease (NAFLD).
 
 • HRT: Estradiol Oestrogel gel, Finasteride tablets.
 
