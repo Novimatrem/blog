@@ -75,6 +75,8 @@ and yes, I really am a cat-girl. 💜
 
 • Weight: 716lbs [which equals to 324.7kg], heavily morbidly obese, with Non-Alcoholic Fatty Liver Disease (NAFLD).
 
+• Yes, I have both. How's THAT for redundancy?
+
 • HRT: Estradiol Oestrogel gel, Finasteride tablets.
 
 Blog code and content is open-source on GitLab: <a target="_blank" href="https://gitlab.com/Novimatrem/blog" style="color: #008148;">Novimatrem / blog - GitLab</a>
