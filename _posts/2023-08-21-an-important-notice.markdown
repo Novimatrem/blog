@@ -11,7 +11,7 @@ plain and simple, it's a non-negotiable fact, and the truth.<br>
 if you disagree, you're wrong.<br>
 this isn't a discussion or a topic of debate.<br>
 <br>
-- zoey (she/her/hers, woman)
+zoey (she/her/hers, woman)
 
 ...
 
