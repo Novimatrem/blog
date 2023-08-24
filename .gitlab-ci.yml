@@ -20,4 +20,4 @@
      paths:
        - public
    only:
-     - main # this job will affect only the 'main' branch
+     - master # this job will affect only the 'master' branch
