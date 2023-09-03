@@ -5,6 +5,8 @@ permalink: /about/
 ---
 <p><a target="_blank" href="https://novimatrem.uk/" style="color: #008148;">(Link to Novimatrem - Home)</a></p>
 
+<p><a target="_blank" href="https://novimatrem.uk/social" style="color: #008148;">(Link to Novimatrem on Novi Social)</a></p>
+
 <p><a target="_blank" href="https://www.youtube.com/@novimatrem/community" style="color: #008148;">(Link to @novimatrem YT Community Tab)</a></p>
 ## About me 💜
 
