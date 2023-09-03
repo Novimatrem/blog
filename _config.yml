@@ -21,7 +21,7 @@
 title: 💜 Tea, Linux, Tea - Novimatrem's Dev Blog
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Novimatrem's blog of words and things. 🐈🐱 - Hobbyist Linux systems administrator, open-source software & web-developer, and free-software advocate. Techy!
+  Novimatrem's blog of words and things. 🐈🐱 - Hobbyist Linux systems administrator, open-source software & web-developer, and free-software advocate. Techy! More from me at novimatrem.uk/social
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://novimatrem.gitlab.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
