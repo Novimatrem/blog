@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Novimatrem's microblogging feed"
+title:  "Novimatrem's microblogging feed - Novi Social"
 date:   2023-08-24 23:48:00 +0000
 ---
 #### by zoey Whitehat (novimatrem.uk)
