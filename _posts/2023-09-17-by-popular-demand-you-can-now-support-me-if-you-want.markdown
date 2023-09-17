@@ -10,7 +10,7 @@ My birthday is on the 9th of May, in case you'd like to wait to make it somethin
 
 Thank you for your consideration.
 
-<a href="https://novimatrem.uk/support/" target="_blank">https://novimatrem.uk/support/</a>
+<a href="https://novimatrem.uk/support/" target="_blank" style="color: #008148">https://novimatrem.uk/support/</a>
 
 ...
 
