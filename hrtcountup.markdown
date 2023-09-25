@@ -13,6 +13,8 @@ Literature:
 
 HRT:
 
+• HRT since: 25/12/2022
+
 • Estradiol Oestrogel, Finasteride tablets.
 
 Count-up (days):
