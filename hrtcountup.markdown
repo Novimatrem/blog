@@ -17,6 +17,10 @@ HRT:
 
 • Estradiol Oestrogel, Finasteride tablets.
 
+• Height: 5’5” [which equals to 165cm]
+
+• Weight: 716lbs [which equals to 324.7kg], morbidly obese.
+
 Count-up (days):
 
 <b>See below for how many days I've been on HRT, yay :3</b>
