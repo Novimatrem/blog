@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "| Categorized posts"
+title:  "| Microblogging feed"
 sitemap: true
 published: true
 permalink: ytcomm.html
