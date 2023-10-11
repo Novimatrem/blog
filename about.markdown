@@ -31,7 +31,7 @@ replies and such may pile up, there, from these folks. I'm so sorry.)
 </span>
 </div>
 
-Hi, I'm zoey Whitehat, otherwise known as Novi.
+Hi, I'm zoey Globe, otherwise known as Novi.
 
 I'm a sleepy young woman who's a web developer and Linux tinkerer, living in the United Kingdom. A pansexual, polyamorous, cat-kin (otherkin) girl. A big fan of technology, programming, food, computer hardware & software, and I spend a lot of my time writing code. Video-making is pretty great, too. I put my heart and soul into the things I do, & strive to create great stuff to the best of my ability in various media types.
 
