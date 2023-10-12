@@ -3,7 +3,7 @@ layout: post
 title:  "How to cool down in summer (Help!)"
 date:   2023-06-18 18:33:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 18/Jun/2023*
 
 Here are a few tips for keeping cool during hot summers, and heatwaves.<br>

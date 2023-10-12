@@ -3,7 +3,7 @@ layout: post
 title:  "Fedora Linux 35 CS:GO Counter-Strike: Global Offensive crash-on-launch fix"
 date:   2022-01-06 04:35:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 06/Jan/2022 at 04:35AM GMT+0*
 
 Hello- I've switched to using Fedora, recently, and unfortunately, Valve decided to put a library inside of the folder, rather than allowing the more up-to-date and more-compatible already-installed system library to be used, which I consider a bad practice. This causes CS:GO to crash on launch. To work around this, please refer to the following steps, and the game will work perfectly.

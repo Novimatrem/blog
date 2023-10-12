@@ -3,7 +3,7 @@ layout: post
 title:  "The plan for the coming while of Novimatrem"
 date:   2023-07-19 23:35:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 19/July/2023*
 
 Oh, hey there!

@@ -3,7 +3,7 @@ layout: post
 title:  "Please, just call me by my name: zoey"
 date:   2023-06-03 18:05:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 03/Jun/2023*
 
 Hello.

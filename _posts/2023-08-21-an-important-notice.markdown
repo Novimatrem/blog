@@ -3,7 +3,7 @@ layout: post
 title:  "An Important Notice"
 date:   2023-08-21 14:42:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 21/August/2023*
 
 i am a woman. my pronouns are she/her/hers.<br>

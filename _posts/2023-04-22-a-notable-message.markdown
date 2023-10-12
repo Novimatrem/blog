@@ -3,7 +3,7 @@ layout: post
 title:  "A notable message"
 date:   2023-04-22 09:15:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 22/Apr/2023*
 
 |Tags: <a href="https://novimatrem.uk/tagged-blog-posts/#socialsafety" target="_blank" style="color: #ff7eb7;">socialsafety</a>|

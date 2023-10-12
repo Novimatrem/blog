@@ -3,7 +3,7 @@ layout: post
 title:  "I'm Inviting you to join diaspora* with me, to enjoy social media once again"
 date:   2023-04-12 17:00:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 12/Apr/2023 at 05:00PM*
 
 #### Note: diaspora is usually spelled with a star (asterisk) symbol after its name, but due to technical limitation I can't do that here.

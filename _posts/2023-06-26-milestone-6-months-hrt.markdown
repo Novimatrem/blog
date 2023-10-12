@@ -3,7 +3,7 @@ layout: post
 title:  "Milestone: 6 months on HRT!"
 date:   2023-06-26 10:00:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 26/Jun/2023*
 
 I think it's time I celebrate something, for once, or at the very least make a commemorative post. As you can tell by the title, I'm now 6 months into my permanent course of Hormone Replacement Therapy, currently comprising of Estrogel and Finasteride! Yay!

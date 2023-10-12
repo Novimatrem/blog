@@ -3,7 +3,7 @@ layout: post
 title:  "A question for you"
 date:   2023-07-30 21:15:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 30/July/2023 at 09:15PM*
 
 I have a question I’d like to ask you to answer that’d help me quite a bit to get answers to, and because I’m bad at combining data from various sources, I put it in the form of a Google Form, basically it’s:

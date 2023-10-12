@@ -3,7 +3,7 @@ layout: post
 title:  "Novimatrem's microblogging feed - Novi Social"
 date:   2023-08-24 23:48:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 24/August/2023*
 
 Because I have been bullied off of social media by awful bigoted ableist transphobic harassers, I now use an alternative social media solution, that is read-only, and with only a single user- me!

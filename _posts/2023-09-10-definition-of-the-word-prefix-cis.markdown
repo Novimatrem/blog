@@ -3,7 +3,7 @@ layout: post
 title:  "Definition of the word/prefix 'cis'"
 date:   2023-09-10 20:45:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 10/Sep/2023*
 
 It seems there has been some confusion around the prefix "cis", and what it means, so let me explain.

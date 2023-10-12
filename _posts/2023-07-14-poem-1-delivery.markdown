@@ -3,7 +3,7 @@ layout: post
 title:  "Poem 1: Delivery"
 date:   2023-07-14 09:52:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 14/July/2023*
 
 Recently, after getting into reading more, (currently working my way through Jam by Yahtzee Croshaw again- no spoilers, I've read it before but I forgot what happened), I've thought that I needed to practice my writing, in various ways, more often. A poem is somewhat unrelated, but it was the first thing of these endeavours that I could publish.

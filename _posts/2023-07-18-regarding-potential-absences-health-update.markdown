@@ -3,7 +3,7 @@ layout: post
 title:  "Regarding potential absences (Health update)"
 date:   2023-07-18 20:47:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 18/July/2023*
 
 I'm finding ways to work on my physical health, at the moment, that are compatible with who I am and the way I experience the world.

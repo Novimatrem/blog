@@ -3,7 +3,7 @@ layout: post
 title:  "Fix missing music/sound effects in Source Engine games (Valve games, etc.) on Fedora"
 date:   2022-03-25 08:15:00 +0000
 ---
-#### by zoey Whitehat (novimatrem.uk)
+#### by zoey Globe (novimatrem.uk)
 *Released: 25/Mar/2022 at 08:15AM*
 
 Hello- I've switched to using Fedora, kinda recently, and unfortunately, it has a bit of an issue regarding completely skipping playing certain audio files during Valve's games. None of this causes any crashing, but can lead to a worse gaming experience, confusion, and the appearance of buggyness- and generally isn't great. To work around this, please refer to the following steps, and all the games' audio will then work perfectly.
