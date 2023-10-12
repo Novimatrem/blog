@@ -73,7 +73,7 @@ and yes, I really am a cat-girl. 💜
 
 • Height: 5'5" [which equals to 165cm]
 
-• Weight: 716lbs [which equals to 324.7kg], extremely heavily morbidly obese, with Non-Alcoholic Fatty Liver Disease (NAFLD).
+• Weight: 716lbs [which equals to 324.7kg, or 51st], extremely heavily morbidly obese, with Non-Alcoholic Fatty Liver Disease (NAFLD).
 
 • Yes, I have both. How's THAT for redundancy?
 
