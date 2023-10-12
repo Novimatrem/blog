@@ -19,7 +19,7 @@ HRT:
 
 • Height: 5’5” [which equals to 165cm]
 
-• Weight: 716lbs [which equals to 324.7kg], morbidly obese.
+• Weight: 716lbs [which equals to 324.7kg, or 51st], morbidly obese.
 
 Count-up (days):
 
