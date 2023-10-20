@@ -79,7 +79,7 @@ and yes, I really am a cat-girl. 💜
 
 • HRT since: 25/12/2022
 
-• HRT: Estradiol Oestrogel gel, Finasteride tablets.
+• HRT: Estradiol Oestrogel gel (applied to lower belly), Finasteride tablets.
 
 Blog code and content is open-source on GitLab: <a target="_blank" href="https://gitlab.com/Novimatrem/blog" style="color: #008148;">Novimatrem / blog - GitLab</a>
 
