@@ -15,7 +15,7 @@ HRT:
 
 • HRT since: 25/12/2022
 
-• Estradiol Oestrogel, Finasteride tablets.
+• Estradiol Oestrogel (applied to lower belly), Finasteride tablets.
 
 • Height: 5’5” [which equals to 165cm]
 
