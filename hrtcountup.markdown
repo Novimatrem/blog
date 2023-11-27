@@ -5,6 +5,12 @@ permalink: /hrtcountup/
 ---
 <a style="color: #008148;" href="https://novimatrem.uk/" target="_blank">[Link to Novimatrem - Home]</a>
 
+my name is zoey. i am a woman of trans experience. my pronouns are she/her/hers.
+
+i am on a permanent course of hormone replacement therapy treatment in order to assist in femininity, which in turn leads me to feeling a lot happier and more at peace with myself, and my life. i’m so grateful and thankful i’m able to do this.
+
+but, yeah, this is the page about that!
+
 Literature:
 
 <a style="color: #008148;" href="https://novimatrem.gitlab.io/blog/2023/06/26/milestone-6-months-hrt.html" target="_blank">[My blog post for Milestone 1 - 6 months on HRT]</a>
