@@ -5,16 +5,16 @@ permalink: /about/
 ---
 <p><a target="_blank" href="https://novimatrem.uk/" style="color: #008148;">(Link to Novimatrem - Home)</a></p>
 
-<p><a target="_blank" href="https://novimatrem.uk/social" style="color: #008148;">(Link to Novimatrem on Novi Social)</a></p>
+<p><a target="_blank" href="https://novimatrem.uk/social" style="color: #008148;">(Link to zoey on Novi Social)</a></p>
 
-<p><a target="_blank" href="https://steamcommunity.com/id/Novimatrem/" style="color: #008148;">(Link to Novimatrem on Steam)</a></p>
+<p><a target="_blank" href="https://steamcommunity.com/id/Novimatrem/" style="color: #008148;">(Link to Novi on Steam)</a></p>
 
-<p><a target="_blank" href="https://www.gog.com/u/Novimatrem/wishlist" style="color: #008148;">(Link to Novimatrem on GOG)</a></p>
+<p><a target="_blank" href="https://www.gog.com/u/Novimatrem/wishlist" style="color: #008148;">(Link to Novi on GOG)</a></p>
 ## About me 💜
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
 
-#### Novimatrem - Hobbyist Linux systems administrator, open-source software & web-developer, free-software fan, and fat acceptance advocate.
+#### zoey Globe - Hobbyist Linux systems administrator, open-source software & web-developer, free-software fan, and fat acceptance advocate.
 
 <div style="background-color:black; display:none;">
 <span style="color:white;"><article><pre style="letter-spacing:-0.5px; padding:10px; font-size:12px; background-color:black;">Novimatrem no longer exists as a public social figure, due to unstoppable constant harassment online.
@@ -35,7 +35,7 @@ replies and such may pile up, there, from these folks. I'm so sorry.)
 </span>
 </div>
 
-Hi, I'm zoey Globe, otherwise known as Novi.
+Hi, I'm zoey Globe, otherwise known as Novi, or Novimatrem.
 
 I'm a sleepy young woman who's a web developer and Linux tinkerer, living in the United Kingdom. A pansexual, polyamorous, cat-kin (otherkin) girl. A big fan of technology, programming, food, computer hardware & software, and I spend a lot of my time writing code. Video-making is pretty great, too. I put my heart and soul into the things I do, & strive to create great stuff to the best of my ability in various media types.
 
