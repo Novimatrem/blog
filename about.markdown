@@ -8,6 +8,8 @@ permalink: /about/
 <p><a target="_blank" href="https://novimatrem.uk/social" style="color: #008148;">(Link to Novimatrem on Novi Social)</a></p>
 
 <p><a target="_blank" href="https://steamcommunity.com/id/Novimatrem/" style="color: #008148;">(Link to Novimatrem on Steam)</a></p>
+
+<p><a target="_blank" href="https://www.gog.com/u/Novimatrem/wishlist" style="color: #008148;">(Link to Novimatrem on GOG)</a></p>
 ## About me 💜
 
 ![face](https://gitlab.com/Novimatrem/blog/-/raw/master/face.png)
