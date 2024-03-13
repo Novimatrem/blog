@@ -6,6 +6,9 @@ permalink: /about/
 <br>
 I am being impersonated on Steam. The only real account for me is <a href="https://steamcommunity.com/id/Novimatrem/">https://steamcommunity.com/id/Novimatrem/</a> - any others are not I, zoey Globe, Novimatrem, and are instead those acting to defame and harass me.
 <br>
+Remember, my real username is EXACTLY Novimatrem - they have been using very similar typosquatted usernames. Verify, and be sure.
+<br><br>
+
 <p><a target="_blank" href="https://novimatrem.uk/" style="color: #008148;">(Link to Novimatrem - Home)</a></p>
 
 <p><a target="_blank" href="https://novimatrem.uk/social" style="color: #008148;">(Link to follow my posts on Novi Social)</a></p>
