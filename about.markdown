@@ -47,7 +47,7 @@ I'm a sleepy young woman who's a web developer and Linux tinkerer, living in the
 
 My real name is zoey - you're welcome to call me that if you wish to not say my 'gamer username'.
 
-I'm a little empty-headed, sometimes, but I mean well- and I try my best. I give my absolute all into being good, kind, and sweet- and manage it quite well.
+I'm a little empty-headed, sometimes, but I mean well- and I try my best. I give my absolute all into being good, kind, and sweet- and think I manage it quite well.
 
 <a style="color: #008148;" href="https://novimatrem.uk/fursona" target="_blank">[Link: Or perhaps you meant to read the about page of my fursona?]</a>
 
