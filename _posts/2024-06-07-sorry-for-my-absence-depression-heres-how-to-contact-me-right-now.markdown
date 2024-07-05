@@ -12,7 +12,7 @@ If I've linked this blog post to you, I probably would like to hear from you, be
 
 The two things I use the most frequently to communicate with others at the moment are **Discord** (yes, I know..) and **E-mail**
 
-You can add me on Discord by adding the username: ``zoey.she_her_hers``
+~~You can add me on Discord by adding the username: ``zoey.she_her_hers``~~ <sub>sigh</sub>
 
 You can email me at: ``TheNovimatrem@protonmail.ch``
 
