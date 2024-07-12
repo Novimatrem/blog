@@ -4,9 +4,9 @@ title: About |
 permalink: /about/
 ---
 <br>
-I am being impersonated on Steam. The only real account for me is <a style="color: #008148;" href="https://steamcommunity.com/id/Novimatrem/">https://steamcommunity.com/id/Novimatrem/</a> - any others are not I, zoey Globe, Novimatrem, and are instead those acting to defame and harass me.
+I am being impersonated on Steam and Discord. I DO NOT use Discord, anymore. The only real Steam account for me is <a style="color: #008148;" href="https://steamcommunity.com/id/Novimatrem/">https://steamcommunity.com/id/Novimatrem/</a> - any others are not I, zoey Globe, Novimatrem.
 <br>
-Remember, my real username is EXACTLY Novimatrem - they have been using very similar typosquatted usernames. Verify, and be sure.
+Verify, and be sure.
 <br><br>
 
 <p><a target="_blank" href="https://novimatrem.uk/" style="color: #008148;">(Link to Novimatrem - Home)</a></p>
