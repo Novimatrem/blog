@@ -41,6 +41,8 @@ I'll skip the small talk and get straight to it, as you're probably actively mel
 
 <img src="https://gitlab.com/Novimatrem/blog/-/raw/master/_postImagesUsed/forCool/cool7.png" style="height:auto; width:550px;">
 
+### Bonus: Wash your hands and wrists under cold water for a good while.
+
 <br>
 
 Hope it helps,<br>
