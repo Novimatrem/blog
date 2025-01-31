@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "| Microblogging feed"
+title:  "| NEW WORDPRESS!!"
 sitemap: true
 published: true
 permalink: ytcomm.html

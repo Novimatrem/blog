@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 💜 Tea, Linux, Tea - Novimatrem's Dev Blog
+title: 💜 Tea, Linux, Tea - Novimatrem's Old Blog
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Novimatrem's blog of words and things. 🐈🐱 - Hobbyist Linux systems administrator, open-source software & web-developer, and free-software advocate. Techy! More from me at novimatrem.uk/social
+  This is Novimatrem's old blog, she has now moved to WordPress, please visit novimatrem.wordpress.com
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://novimatrem.gitlab.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
