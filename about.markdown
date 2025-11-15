@@ -7,6 +7,8 @@ permalink: /about/
 I am being impersonated on Steam and Discord. I DO NOT use Discord, anymore. The only real Steam account for me is <a style="color: #008148;" href="https://steamcommunity.com/id/Novimatrem/">https://steamcommunity.com/id/Novimatrem/</a> - any others are not I, zoey Globe, Novimatrem.
 <br>
 Verify, and be sure.
+<br>
+and maybe all they needed was... i dunno. some good food, some bad laughs, some nice friends. but that's ridiculous, right? yeah, you're the type of person who won't EVER be happy.
 <br><br>
 
 <p><a target="_blank" href="https://novimatrem.uk/" style="color: #008148;">(Link to Novimatrem - Home)</a></p>
