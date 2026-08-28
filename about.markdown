@@ -79,7 +79,7 @@ and yes, I really am a cat-girl. 💜
 
 #### **More things about me:**
 
-• Favourite operating system (daily driver): XeroLinux x86_64 [KDE]
+• Favourite operating system (daily driver): Linux Xubuntu 26.04 LTS x86_64 [Xfce]
 
 • Favourite food: Bacon triple-cheeseburger, Tofu, Feta Cheese
 
