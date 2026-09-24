@@ -59,7 +59,7 @@ i'm cat-kin (otherkin), i am a cat. yes, really.
 
 I'm an open-source advocate, and recommend and prioritise the use of free libre software, and open non-proprietary services-- but that doesn't mean I'm a die-hard only-FLOSS extremist.
 
-and yes, I have both. How's THAT for redundancy?
+Futa pride!
 
 Sorry if my writing or sentence structure seems awkward or confusing sometimes, or something doesn't make sense, I have autism, and likely other neurodivergences- it shouldn’t affect anything much, but please ask for clarity if I ever post something you’re unsure of.
 
