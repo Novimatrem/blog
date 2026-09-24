@@ -32,3 +32,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # please build you wanker
 gem "public_suffix", "< 5.0"
+
+# absolute motherfucker
+gem "ffi", "< 1.17"
